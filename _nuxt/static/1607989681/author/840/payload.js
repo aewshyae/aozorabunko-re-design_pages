@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/840", {data:[{author:{id:840,work:[],name:"山田 巌",name_kana:"やまだ いわお",name_en:"Yamada, Iwao",born_on:"1880-09-19",died_on:"1943-10-23"},bornOn:"1880年9月19日",diedOn:"1943年10月23日"}],fetch:[],mutations:[]});

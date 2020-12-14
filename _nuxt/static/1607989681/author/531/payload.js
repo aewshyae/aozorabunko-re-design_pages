@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/531", {data:[{author:{id:531,work:[],name:"木村 素衛",name_kana:"きむら もともり",name_en:"Kimura, Motomori",born_on:"1905-03-11",died_on:"1946-02-12"},bornOn:"1905年3月11日",diedOn:"1946年2月12日"}],fetch:[],mutations:[]});

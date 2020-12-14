@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/743", {data:[{author:{id:743,work:[],name:"阪 正臣",name_kana:"ばん まさおみ",name_en:"Ban, Masaomi",born_on:"1855-03-23",died_on:"1931-08-25"},bornOn:"1855年3月23日",diedOn:"1931年8月25日"}],fetch:[],mutations:[]});

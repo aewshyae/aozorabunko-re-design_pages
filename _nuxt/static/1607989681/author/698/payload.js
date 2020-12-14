@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/698", {data:[{author:{id:698,work:[],name:"長棟 暉友",name_kana:"ながむね てるとも",name_en:"Nagamune, Terutomo",born_on:"1888-08-29",died_on:"1945-03-17"},bornOn:"1888年8月29日",diedOn:"1945年3月17日"}],fetch:[],mutations:[]});

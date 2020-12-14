@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1857", (function(a){return {data:[{author:{id:1857,work:[],name:"時代世相研究会 ",name_kana:"じだいせそうけんきゅうかい ",name_en:"Jidaiseso-kenkyukai, ",wip:[{title:"変態風俗画鑑",subtitle:"",kana_type:"旧字旧仮名",work_id:57365}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

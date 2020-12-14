@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/390", {data:[{author:{id:390,work:[],name:"飯田 武郷",name_kana:"いいだ たけさと",name_en:"Iida, Takesato",born_on:"1828-01-22",died_on:"1900-08-26"},bornOn:"1828年1月22日",diedOn:"1900年8月26日"}],fetch:[],mutations:[]});

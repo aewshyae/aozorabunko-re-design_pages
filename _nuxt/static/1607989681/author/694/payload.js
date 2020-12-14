@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/694", {data:[{author:{id:694,work:[],name:"仲田 勝之助",name_kana:"なかだ かつのすけ",name_en:"Nakada, Katsunosuke",born_on:"1886-01-28",died_on:"1945-12-25"},bornOn:"1886年1月28日",diedOn:"1945年12月25日"}],fetch:[],mutations:[]});

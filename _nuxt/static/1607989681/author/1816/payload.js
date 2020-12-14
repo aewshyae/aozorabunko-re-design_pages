@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1816", {data:[{author:{id:1816,work:[{work_id:56891,title:"小桜姫物語",subtitle:"01 舌代",kana_type:"新字新仮名"}],name:"浅野 正恭",name_kana:"あさの まさやす",name_en:"Asano, Masayasu",born_on:"1868-01-22",died_on:"1954-10-20"},bornOn:"1868年1月22日",diedOn:"1954年10月20日"}],fetch:[],mutations:[]});

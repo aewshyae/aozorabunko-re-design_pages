@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/426", {data:[{author:{id:426,work:[],name:"今井 十九二",name_kana:"いまい とくじ",name_en:"Imai, Tokuji",died_on:"1941-01-01",desc:"※没年の詳しい月日はわからず。"},bornOn:void 0,diedOn:"1941年1月1日"}],fetch:[],mutations:[]});

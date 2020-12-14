@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/555", {data:[{author:{id:555,work:[],name:"後藤 朝太郎",name_kana:"ごとう あさたろう",name_en:"Goto, Asataro",born_on:"1881-04-16",died_on:"1945-08-09",wip:[{title:"支那の男と女（戦時国策版）",subtitle:"",kana_type:"旧字旧仮名",work_id:43687}]},bornOn:"1881年4月16日",diedOn:"1945年8月9日"}],fetch:[],mutations:[]});

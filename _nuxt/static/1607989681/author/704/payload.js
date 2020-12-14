@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/704", {data:[{author:{id:704,work:[],name:"中村 達太郎",name_kana:"なかむら たつたろう",name_en:"Nakamura, Tatsutaro",born_on:"1860-11-15",died_on:"1942-07-28"},bornOn:"1860年11月15日",diedOn:"1942年7月28日"}],fetch:[],mutations:[]});

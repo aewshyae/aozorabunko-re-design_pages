@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/631", {data:[{author:{id:631,work:[],name:"高安 月郊",name_kana:"たかやす げっこう",name_en:"Takayasu, Gekko",born_on:"1869-02-16",died_on:"1944-02-26"},bornOn:"1869年2月16日",diedOn:"1944年2月26日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/867", {data:[{author:{id:867,work:[],name:"高橋 是清",name_kana:"たかはし これきよ",name_en:"Takahashi, Korekiyo",born_on:"1864-10-08",died_on:"1936-05-03",wip:[{title:"高橋是清自伝",subtitle:"",kana_type:"新字新仮名",work_id:2666,others:[{person_id:1060,person_name:"上塚 司",role:"編者"}]}]},bornOn:"1864年10月8日",diedOn:"1936年5月3日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1269", {data:[{author:{id:1269,work:[],name:"工藤 梅次郎",name_kana:"くどう うめじろう",name_en:"Kudo, Umejiro",born_on:"1887",died_on:"1941",wip:[{title:"アイヌ民話",subtitle:"",kana_type:"旧字旧仮名",work_id:46882}]},bornOn:"1887年1月1日",diedOn:"1941年1月1日"}],fetch:[],mutations:[]});

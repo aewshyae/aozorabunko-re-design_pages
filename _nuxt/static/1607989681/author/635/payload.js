@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/635", {data:[{author:{id:635,work:[],name:"田口 掬汀",name_kana:"たぐち きくてい",name_en:"Taguchi, Kikutei",born_on:"1875-01-18",died_on:"1943-08-09"},bornOn:"1875年1月18日",diedOn:"1943年8月9日"}],fetch:[],mutations:[]});

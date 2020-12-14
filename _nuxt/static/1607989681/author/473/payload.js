@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/473", {data:[{author:{id:473,work:[],name:"小川 琢治",name_kana:"おがわ たくじ",name_en:"Ogawa, Takuji",born_on:"1870-05-28",died_on:"1941-11-15"},bornOn:"1870年5月28日",diedOn:"1941年11月15日"}],fetch:[],mutations:[]});

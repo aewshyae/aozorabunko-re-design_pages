@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1441", {data:[{author:{id:1441,work:[],name:"杉田 玄白",name_kana:"すぎた げんぱく",name_en:"Sugita, Genpaku",born_on:"1733-10-20",died_on:"1817-06-01",wip:[{title:"蘭学事始",subtitle:"",kana_type:"旧字旧仮名",work_id:50435}]},bornOn:"1733年10月20日",diedOn:"1817年6月1日"}],fetch:[],mutations:[]});

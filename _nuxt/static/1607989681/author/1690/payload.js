@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1690", {data:[{author:{id:1690,work:[{work_id:54996,title:"芳賀先生と日本主義",kana_type:"旧字旧仮名"}],name:"高橋 竜雄",name_kana:"たかはし たつお",name_en:"Takahashi, Tatsuo",born_on:"1868",died_on:"1946"},bornOn:"1868年1月1日",diedOn:"1946年1月1日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1406", (function(a){return {data:[{author:{id:1406,work:[],name:"清 少納言",name_kana:"せい しょうなごん",name_en:"Sei, Shonagon",wip:[{title:"枕草子",subtitle:"",kana_type:"旧字旧仮名",work_id:50111}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

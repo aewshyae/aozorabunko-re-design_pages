@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2041", {data:[{author:{id:2041,work:[],name:"上 真行",name_kana:"うえ さねみち",name_en:"Ue, Sanemichi",born_on:"1851-07-29",died_on:"1937-02-28",wip:[{title:"音楽通解",subtitle:"01 序",kana_type:"旧字旧仮名",work_id:59462}]},bornOn:"1851年7月29日",diedOn:"1937年2月28日"}],fetch:[],mutations:[]});

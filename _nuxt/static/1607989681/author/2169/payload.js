@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2169", {data:[{author:{id:2169,work:[],name:"北村 兼子",name_kana:"きたむら かねこ",born_on:"1903-11-26",died_on:"1931-7-26",wip:[{title:"ねこ",subtitle:"",kana_type:"旧字旧仮名",work_id:60668}]},bornOn:"1903年11月26日",diedOn:"1931年7月26日"}],fetch:[],mutations:[]});

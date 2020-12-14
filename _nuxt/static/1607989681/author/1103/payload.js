@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1103", (function(a){return {data:[{author:{id:1103,work:[],name:a,name_kana:a,name_en:"Bunyan, John",born_on:"1628",died_on:"1688",alt_id:1102,alt_name:"バニヤン ジョン"},bornOn:"1628年1月1日",diedOn:"1688年1月1日"}],fetch:[],mutations:[]}}("バンヤン ジョン")));

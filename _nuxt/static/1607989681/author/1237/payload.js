@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1237", (function(a){return {data:[{author:{id:1237,work:[{work_id:46346,title:"サンタクロースはいるんだ",kana_type:"新字新仮名",others:[{person_id:10,person_name:"大久保 ゆう",role:"翻訳者"}]}],name:"ニューヨーク・サン紙 ",name_kana:"ニューヨーク・サンし ",name_en:"The New York Sun, "},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

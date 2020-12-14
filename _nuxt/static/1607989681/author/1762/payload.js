@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1762", {data:[{author:{id:1762,work:[{work_id:55961,title:"魯迅さん",kana_type:"新字新仮名"}],name:"内山 完造",name_kana:"うちやま かんぞう",name_en:"Uchiyama, Kanzou",born_on:"1885-01-11",died_on:"1959-09-20"},bornOn:"1885年1月11日",diedOn:"1959年9月20日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1084", {data:[{author:{id:1084,work:[{work_id:42294,title:"怪奇人造島",kana_type:"新字新仮名"}],name:"寺島 柾史",name_kana:"てらしま まさし",name_en:"Terashima, Masashi",born_on:"1893-10-24",died_on:"1952"},bornOn:"1893年10月24日",diedOn:"1952年1月1日"}],fetch:[],mutations:[]});

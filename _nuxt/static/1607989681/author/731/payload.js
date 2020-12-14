@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/731", {data:[{author:{id:731,work:[],name:"旗野 十一郎",name_kana:"はたの とりひこ",name_en:"Hatano, Torihiko",born_on:"1851-01-23",died_on:"1908-06-16"},bornOn:"1851年1月23日",diedOn:"1908年6月16日"}],fetch:[],mutations:[]});

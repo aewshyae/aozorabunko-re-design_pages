@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1953", {data:[{author:{id:1953,work:[{work_id:18362,title:"帝室論緒言",kana_type:"旧字旧仮名"}],name:"飯田 平作",name_kana:"いいだ へいさく",name_en:"Iida, Heisaku",born_on:"1849",died_on:"1940-12-01"},bornOn:"1849年1月1日",diedOn:"1940年12月1日"}],fetch:[],mutations:[]});

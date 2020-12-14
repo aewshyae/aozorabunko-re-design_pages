@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2034", (function(a,b){return {data:[{author:{id:2034,work:[{work_id:59405,title:"人間本性論（人性論）",person_id:a,subtitle:"実験的研究方法を精神上の主題に導入する一つの企て",kana_type:"新字新仮名",others:[{person_id:a,person_name:"ヒューム デイヴィッド",role:"著者"}]}],name:"井上 基志",name_kana:"いのうえ もとし",name_en:"Inoue, Motoshi",copyright:true},bornOn:b,diedOn:b}],fetch:[],mutations:[]}}(2033,void 0)));

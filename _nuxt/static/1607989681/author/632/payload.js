@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/632", {data:[{author:{id:632,work:[],name:"滝 精一",name_kana:"たき せいいち",name_en:"Taki, Seiichi",born_on:"1873-12-12",died_on:"1945-05-17"},bornOn:"1873年12月12日",diedOn:"1945年5月17日"}],fetch:[],mutations:[]});

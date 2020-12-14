@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/952", {data:[{author:{id:952,work:[],name:"鍵谷 徳三郎",name_kana:"かぎたに とくさぶろう",name_en:"Kagitani, Tokusaburo",born_on:"1867-12",died_on:"1924-04-21"},bornOn:"1867年12月1日",diedOn:"1924年4月21日"}],fetch:[],mutations:[]});

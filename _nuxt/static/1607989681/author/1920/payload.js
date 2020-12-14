@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1920", (function(a,b){return {data:[{author:{id:1920,work:[{work_id:58203,title:"スワーネルブルフ城の白鳥",person_id:a,kana_type:"新字新仮名",others:[{person_id:a,person_name:"シェミン マーガレット",role:"著者"}]}],name:"宝 探子",name_kana:"たから さがし",name_en:"Takara, Sagashi",copyright:true},bornOn:b,diedOn:b}],fetch:[],mutations:[]}}(1919,void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2097", {data:[{author:{id:2097,work:[],name:"猪熊 敬一郎",name_kana:"いのくま けいいちろう",name_en:"Inokuma, Keiichiro",born_on:"1883",died_on:"1911",wip:[{title:"鉄血",subtitle:"日露戦争記",kana_type:"新字新仮名",work_id:59895}]},bornOn:"1883年1月1日",diedOn:"1911年1月1日"}],fetch:[],mutations:[]});

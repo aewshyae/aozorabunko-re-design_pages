@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/588", {data:[{author:{id:588,work:[],name:"四竈 訥治",name_kana:"しかま とつじ",name_en:"Shikama, Totsuji",born_on:"1854-03-12",died_on:"1928-07-09"},bornOn:"1854年3月12日",diedOn:"1928年7月9日"}],fetch:[],mutations:[]});

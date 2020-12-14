@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2143", {data:[{author:{id:2143,work:[],name:"深川 喜次郎",name_kana:"ふかがわ きじろう",name_en:"Fukagawa, Kijiro",born_on:"1872-05-15",died_on:"1930-05-18",wip:[{title:"大隈侯爵家佐賀墓地改築工事報告書",subtitle:"",kana_type:"旧字旧仮名",work_id:60377}]},bornOn:"1872年5月15日",diedOn:"1930年5月18日"}],fetch:[],mutations:[]});

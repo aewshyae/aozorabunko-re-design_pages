@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1546", {data:[{author:{id:1546,work:[],name:"三吉 慎蔵",name_kana:"みよし しんぞう",name_en:"Miyoshi, Shinzo",born_on:"1831-11-14",died_on:"1901-02-16",wip:[{title:"三吉慎蔵日記",subtitle:"",kana_type:"新字旧仮名",work_id:52228}]},bornOn:"1831年11月14日",diedOn:"1901年2月16日"}],fetch:[],mutations:[]});

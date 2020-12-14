@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1815", {data:[{author:{id:1815,work:[],name:"小早川 秀雄",name_kana:"こばやかわ ひでお",name_en:"Kobayakawa, Hideo",born_on:"1870",died_on:"1920",wip:[{title:"血史 熊本敬神党",subtitle:"",kana_type:"旧字旧仮名",work_id:56887}]},bornOn:"1870年1月1日",diedOn:"1920年1月1日"}],fetch:[],mutations:[]});

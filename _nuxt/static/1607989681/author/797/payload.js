@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/797", {data:[{author:{id:797,work:[],name:"箕作 元八",name_kana:"みつくり げんぱち",name_en:"Mitsukuri, Genpachi",born_on:"1862-05-29",died_on:"1919-08-09"},bornOn:"1862年5月29日",diedOn:"1919年8月9日"}],fetch:[],mutations:[]});

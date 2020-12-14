@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1596", {data:[{author:{id:1596,work:[],name:"大岩 誠",name_kana:"おおいわ まこと",name_en:"Oiwa, Makoto",born_on:"1900-07-08",died_on:"1957-01-11",wip:[{title:"君主論",subtitle:"",kana_type:"新字新仮名",work_id:53684,others:[{person_id:1590,person_name:"マキャヴェッリ ニッコロ",role:"著者"}]}]},bornOn:"1900年7月8日",diedOn:"1957年1月11日"}],fetch:[],mutations:[]});

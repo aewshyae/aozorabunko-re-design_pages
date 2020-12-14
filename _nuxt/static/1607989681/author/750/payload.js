@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/750", {data:[{author:{id:750,work:[],name:"平福 百穂",name_kana:"ひらふく ひゃくすい",name_en:"Hirafuku, Hyakusui",born_on:"1877-12-28",died_on:"1933-10-30"},bornOn:"1877年12月28日",diedOn:"1933年10月30日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/406", {data:[{author:{id:406,work:[],name:"石川 錬次",name_kana:"いしかわ れんじ",name_en:"Ishikawa, Renji ",born_on:"1893-01-22",died_on:"1945-07-08"},bornOn:"1893年1月22日",diedOn:"1945年7月8日"}],fetch:[],mutations:[]});

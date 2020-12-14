@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2149", (function(a){return {data:[{author:{id:2149,work:[],name:"高柳 賢三",name_kana:"たかやなぎ けんぞう",copyright:true,wip:[{title:"天皇・憲法第九条",subtitle:"",kana_type:"新字新仮名",work_id:60454}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

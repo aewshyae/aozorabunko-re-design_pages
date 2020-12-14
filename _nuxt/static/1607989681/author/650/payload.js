@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/650", {data:[{author:{id:650,work:[],name:"田中 萃一郎",name_kana:"たなか すいいちろう",name_en:"Tanaka, Suiichiro",born_on:"1873-03-07",died_on:"1923-08-13"},bornOn:"1873年3月7日",diedOn:"1923年8月13日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1275", (function(a){return {data:[{author:{id:1275,work:[],name:"林 清俊",name_kana:"はやし きよとし",name_en:"Hayashi, Kiyotoshi",copyright:true},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1633", {data:[{author:{id:1633,work:[{work_id:54082,title:"死の凱旋兵",kana_type:"新字新仮名"}],name:"国見 善弘",name_kana:"くにみ よしひろ",name_en:"Kunimi, Yoshihiro",born_on:"1916",died_on:"1937"},bornOn:"1916年1月1日",diedOn:"1937年1月1日"}],fetch:[],mutations:[]});

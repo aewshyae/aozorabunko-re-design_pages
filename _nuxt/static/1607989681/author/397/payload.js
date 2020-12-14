@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/397", {data:[{author:{id:397,work:[],name:"池田 蘆洲",name_kana:"いけだ ろしゅう",name_en:"Ikeda, Roshu",born_on:"1864-06-19",died_on:"1934-01-24"},bornOn:"1864年6月19日",diedOn:"1934年1月24日"}],fetch:[],mutations:[]});

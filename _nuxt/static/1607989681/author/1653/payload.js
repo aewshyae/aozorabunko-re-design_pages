@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1653", {data:[{author:{id:1653,work:[{work_id:54261,title:"蕎麦の花の頃",kana_type:"新字新仮名"}],name:"李 孝石",name_kana:"い ひょそく",name_en:"Lee, Hyo-seok",born_on:"1907-02-23",died_on:"1942-05-25"},bornOn:"1907年2月23日",diedOn:"1942年5月25日"}],fetch:[],mutations:[]});

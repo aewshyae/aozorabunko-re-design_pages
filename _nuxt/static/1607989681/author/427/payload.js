@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/427", {data:[{author:{id:427,work:[],name:"今井 白楊",name_kana:"いまい はくよう",name_en:"Imai, Hakuyo",born_on:"1889-12-03",died_on:"1917-08-02"},bornOn:"1889年12月3日",diedOn:"1917年8月2日"}],fetch:[],mutations:[]});

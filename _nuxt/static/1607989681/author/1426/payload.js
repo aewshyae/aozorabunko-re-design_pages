@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1426", {data:[{author:{id:1426,work:[],name:"森 繁夫",name_kana:"もり しげお",name_en:"Mori, Shigeo",born_on:"1882",died_on:"1950",wip:[{title:"人物百談",subtitle:"九二　幕末志士の歌",kana_type:"旧字旧仮名",work_id:50325}]},bornOn:"1882年1月1日",diedOn:"1950年1月1日"}],fetch:[],mutations:[]});

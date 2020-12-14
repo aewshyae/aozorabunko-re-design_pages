@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/852", {data:[{author:{id:852,work:[],name:"吉田 草紙庵",name_kana:"よしだ そうしあん",name_en:"Yoshida, Soshian",born_on:"1875-08-08",died_on:"1946-12-05"},bornOn:"1875年8月8日",diedOn:"1946年12月5日"}],fetch:[],mutations:[]});

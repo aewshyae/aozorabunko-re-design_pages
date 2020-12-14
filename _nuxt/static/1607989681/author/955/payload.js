@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/955", {data:[{author:{id:955,work:[],name:"児島 喜久雄",name_kana:"こじま きくお",name_en:"Kojima, Kikuo",born_on:"1887-10-10",died_on:"1950-07-05"},bornOn:"1887年10月10日",diedOn:"1950年7月5日"}],fetch:[],mutations:[]});
