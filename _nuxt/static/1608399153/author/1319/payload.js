@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1319", {data:[{author:{id:1319,work:[],name:"吉田 静致",name_kana:"よしだ せいち",name_en:"Yoshida, Seichi",born_on:"1872",died_on:"1945-10-04",wip:[{title:"人格的唯心論に就て",subtitle:"",kana_type:"旧字旧仮名",work_id:47854,titleToDisplay:"人格的唯心論に就て "}]},bornOn:"1872年1月1日",diedOn:"1945年10月4日"}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/476", {data:[{author:{id:476,work:[],name:"奥 好義",name_kana:"おく よしいさ",name_en:"Oku, Yoshiisa",born_on:"1858-09-20",died_on:"1933-03-09"},bornOn:"1858年9月20日",diedOn:"1933年3月9日"}],fetch:[],mutations:[]});

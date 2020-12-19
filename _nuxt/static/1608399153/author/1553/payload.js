@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1553", {data:[{author:{id:1553,work:[],name:"和辻 春樹",name_kana:"わつじ はるき",name_en:"Watsuji, Haruki",born_on:"1891",died_on:"1952",wip:[{title:"随筆",subtitle:"船　",kana_type:"新字新仮名",work_id:52295,titleToDisplay:"随筆 船　"}]},bornOn:"1891年1月1日",diedOn:"1952年1月1日"}],fetch:[],mutations:[]});

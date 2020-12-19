@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1325", {data:[{author:{id:1325,work:[{work_id:48214,title:"海島冒険奇譚　海底軍艦",subtitle:"01 序",kana_type:"旧字旧仮名",titleToDisplay:"海島冒険奇譚　海底軍艦 01 序"}],name:"上村 経吉",name_kana:"うえむら つねきち",name_en:"Uemura, Tsunekichi",born_on:"1868-04-28",died_on:"1922-11-21"},desc:"",showDesc:false,bornOn:"1868年4月28日",diedOn:"1922年11月21日"}],fetch:[],mutations:[]});

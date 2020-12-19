@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1642", {data:[{author:{id:1642,work:[{work_id:54099,title:"冬のしぶき",subtitle:"――母親から獄中の息子に――",kana_type:"新字新仮名",titleToDisplay:"冬のしぶき ――母親から獄中の息子に――"}],name:"伊藤 信二",name_kana:"いとう しんじ",name_en:"Ito, Shinji",born_on:"1907-10-30",died_on:"1932-08-14"},bornOn:"1907年10月30日",diedOn:"1932年8月14日"}],fetch:[],mutations:[]});

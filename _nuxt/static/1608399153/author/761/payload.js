@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/761", {data:[{author:{id:761,work:[],name:"藤田 徳太郎",name_kana:"ふじた とくたろう",name_en:"Fujita, Tokutaro",born_on:"1901-11-01",died_on:"1945-06-29"},bornOn:"1901年11月1日",diedOn:"1945年6月29日"}],fetch:[],mutations:[]});

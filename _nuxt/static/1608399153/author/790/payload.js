@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/790", {data:[{author:{id:790,work:[],name:"三ヶ島 葭子",name_kana:"みかしま よしこ",name_en:"Mikashima, Yoshiko",born_on:"1886-08-07",died_on:"1927-03-26"},bornOn:"1886年8月7日",diedOn:"1927年3月26日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/865", (function(a,b,c){return {data:[{author:{id:865,work:[],name:"瓶井 めぐみ",name_kana:"かめい めぐみ",name_en:"Kamei, Megumi",desc:a,copyright:b},desc:a,showDesc:b,bornOn:c,diedOn:c}],fetch:[],mutations:[]}}("1971-。大阪府堺市生まれ。マスコミ勤務（現在も勤務中のため恐縮ですが社名は伏せます）。大阪本社にて同社出版の雑誌編集に携わり、編集業、取材、執筆等を手掛ける。東京本社へ異動後はインターネット上での広報宣伝・拡販等を専門分野として活動。同社Web雑誌も手掛ける。",true,void 0)));

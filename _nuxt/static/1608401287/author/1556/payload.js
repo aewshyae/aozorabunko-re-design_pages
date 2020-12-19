@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1556", {data:[{author:{id:1556,work:[{work_id:52315,title:"大植物図鑑",subtitle:"01 序",kana_type:"旧字旧仮名",titleToDisplay:"大植物図鑑 01 序"}],name:"松村 任三",name_kana:"まつむら じんぞう",name_en:"Matsumura, Jinzo",born_on:"1856-02-14",died_on:"1928-05-04"},desc:"",showDesc:false,bornOn:"1856年2月14日",diedOn:"1928年5月4日"}],fetch:[],mutations:[]});

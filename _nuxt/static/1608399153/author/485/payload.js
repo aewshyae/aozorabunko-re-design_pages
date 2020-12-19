@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/485", {data:[{author:{id:485,work:[],name:"小野 竹三",name_kana:"おの たけぞう",name_en:"Ono, Takezo",born_on:"1878-03-16",died_on:"1945-03-05"},bornOn:"1878年3月16日",diedOn:"1945年3月5日"}],fetch:[],mutations:[]});

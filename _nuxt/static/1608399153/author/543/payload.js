@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/543", {data:[{author:{id:543,work:[],name:"桑田 春風",name_kana:"くわた しゅんぷう",name_en:"Kuwata, Shunpu",born_on:"1877-01-04",died_on:"1935-05-04"},bornOn:"1877年1月4日",diedOn:"1935年5月4日"}],fetch:[],mutations:[]});

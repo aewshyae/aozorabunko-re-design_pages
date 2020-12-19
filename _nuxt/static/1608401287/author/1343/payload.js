@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1343", (function(a){return {data:[{author:{id:1343,work:[],name:"細木原 青起",name_kana:"ほそきばら せいき",name_en:"Hosokibara, Seiki",born_on:"1885-05-15",died_on:"1958-01-27",wip:[{title:"日本漫画史",subtitle:a,kana_type:"旧字旧仮名",work_id:48578,titleToDisplay:"日本漫画史 "}]},desc:a,showDesc:false,bornOn:"1885年5月15日",diedOn:"1958年1月27日"}],fetch:[],mutations:[]}}("")));

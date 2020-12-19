@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1940", {data:[{author:{id:1940,work:[{work_id:58553,title:"裸体美に就て",kana_type:"旧字旧仮名",titleToDisplay:"裸体美に就て "}],name:"小倉 右一郎",name_kana:"おぐら ゆういちろう",name_en:"Ogura, Yuichiro",born_on:"1881-06-09",died_on:"1962-07-15"},bornOn:"1881年6月9日",diedOn:"1962年7月15日"}],fetch:[],mutations:[]});

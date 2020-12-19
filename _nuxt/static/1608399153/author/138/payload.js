@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/138", (function(a){return {data:[{author:{id:138,work:[{work_id:735,title:"選挙のユーザー インターフェイス",kana_type:"新字新仮名",titleToDisplay:"選挙のユーザー インターフェイス "}],name:"翡翠 ",name_kana:"ひすい ",name_en:"Hisui, ",desc:"プロジェクト計画ファクトリー技術担当。エキスパンドブック、Director など、各種オーサリングソフトを使いこなすが、その実体は音屋。",copyright:true},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

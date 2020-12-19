@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/396", {data:[{author:{id:396,work:[],name:"池田 不二男",name_kana:"いけだ ふじお",name_en:"Ikeda, Fujio",born_on:"1905-08-08",died_on:"1943-11-27"},bornOn:"1905年8月8日",diedOn:"1943年11月27日"}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/404", {data:[{author:{id:404,work:[],name:"石川 英雄",name_kana:"いしかわ ひでお",name_en:"Ishikawa, Hideo",died_on:"1945"},bornOn:void 0,diedOn:"1945年1月1日"}],fetch:[],mutations:[]});

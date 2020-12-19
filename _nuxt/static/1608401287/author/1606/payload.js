@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1606", {data:[{author:{id:1606,work:[{work_id:53835,title:"首里城",kana_type:"新字旧仮名",titleToDisplay:"首里城 "}],name:"世礼 国男",name_kana:"せれい くにお",name_en:"Serei, Kunio",born_on:"1897-07-20",died_on:"1950-01-23"},desc:"",showDesc:false,bornOn:"1897年7月20日",diedOn:"1950年1月23日"}],fetch:[],mutations:[]});

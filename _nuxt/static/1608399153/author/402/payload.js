@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/402", {data:[{author:{id:402,work:[],name:"石川 戯庵",name_kana:"いしかわ ぎあん",name_en:"Ishikawa, Gian",born_on:"1876-11-01",died_on:"1933-10-07"},bornOn:"1876年11月1日",diedOn:"1933年10月7日"}],fetch:[],mutations:[]});

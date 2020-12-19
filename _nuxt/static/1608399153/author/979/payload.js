@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/979", {data:[{author:{id:979,work:[],name:"竹越 與三郎",name_kana:"たけこし よさぶろう",name_en:"Takekoshi, Yosaburo",born_on:"1865-11-22",died_on:"1950-01-12"},bornOn:"1865年11月22日",diedOn:"1950年1月12日"}],fetch:[],mutations:[]});

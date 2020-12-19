@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1946", {data:[{author:{id:1946,work:[],name:"宮崎 稔",name_kana:"みやざき みのる",name_en:"Miyazaki, Minoru",died_on:"1953",wip:[{title:"典型",subtitle:"",kana_type:"旧字旧仮名",work_id:58584,others:[{person_id:1168,person_name:"高村 光太郎",role:"著者"}],titleToDisplay:"典型 "}]},bornOn:void 0,diedOn:"1953年1月1日"}],fetch:[],mutations:[]});

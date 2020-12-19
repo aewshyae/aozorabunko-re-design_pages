@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1152", {data:[{author:{id:1152,work:[],name:"谷本 富",name_kana:"たにもと とめり",name_en:"Tanimoto, Tomeri",born_on:"1867",died_on:"1946",wip:[{title:"日本文明史上に於ける弘法大師",subtitle:"",kana_type:"旧字旧仮名",work_id:43564,titleToDisplay:"日本文明史上に於ける弘法大師 "}]},bornOn:"1867年1月1日",diedOn:"1946年1月1日"}],fetch:[],mutations:[]});

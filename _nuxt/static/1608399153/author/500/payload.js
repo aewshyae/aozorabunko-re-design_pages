@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/500", {data:[{author:{id:500,work:[],name:"金子 みすゞ",name_kana:"かねこ みすゞ",name_en:"Kaneko, Misuzu",born_on:"1903-04-11",died_on:"1930-03-10",desc:"※作者の死後、関係者の努力によって発掘された経緯を踏まえ、取り組むか否か検討中。現時点では、入力を控えている。"},bornOn:"1903年4月11日",diedOn:"1930年3月10日"}],fetch:[],mutations:[]});

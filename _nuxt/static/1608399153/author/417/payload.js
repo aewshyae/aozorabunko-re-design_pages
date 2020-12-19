@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/417", {data:[{author:{id:417,work:[],name:"井上 源次郎",name_kana:"いのうえ げんじろう",name_en:"Inoue, Genjiro",born_on:"1876-03-02",died_on:"1940-11-09"},bornOn:"1876年3月2日",diedOn:"1940年11月9日"}],fetch:[],mutations:[]});

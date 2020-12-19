@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/785", {data:[{author:{id:785,work:[],name:"馬淵 冷佑",name_kana:"まぶち れいゆう",name_en:"Mabuchi, Reiyu",died_on:"1941"},bornOn:void 0,diedOn:"1941年1月1日"}],fetch:[],mutations:[]});

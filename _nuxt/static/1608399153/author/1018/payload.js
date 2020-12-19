@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1018", {data:[{author:{id:1018,work:[],name:"山城 正忠",name_kana:"やましろ せいちゅう",name_en:"Yamashiro, Seichu",born_on:"1884-11-01",died_on:"1949-11-22"},bornOn:"1884年11月1日",diedOn:"1949年11月22日"}],fetch:[],mutations:[]});

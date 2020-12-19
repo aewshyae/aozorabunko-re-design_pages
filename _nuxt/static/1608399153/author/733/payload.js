@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/733", {data:[{author:{id:733,work:[],name:"服部 躬治",name_kana:"はっとり もとはる",name_en:"Hattori, Motoharu",born_on:"1875-03-28",died_on:"1925-03-10"},bornOn:"1875年3月28日",diedOn:"1925年3月10日"}],fetch:[],mutations:[]});

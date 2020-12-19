@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/462", {data:[{author:{id:462,work:[],name:"大橋 乙羽",name_kana:"おおはし おとわ",name_en:"Ohashi, Otowa",born_on:"1869-06-30",died_on:"1901-06-01"},bornOn:"1869年6月30日",diedOn:"1901年6月1日"}],fetch:[],mutations:[]});

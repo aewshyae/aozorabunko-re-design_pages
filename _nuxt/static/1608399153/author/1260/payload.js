@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1260", (function(a){return {data:[{author:{id:1260,work:[],name:"荘司 泰",name_kana:"しょうじ たい",name_en:"Shoji, Tai",copyright:true},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

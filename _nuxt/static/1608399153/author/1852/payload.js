@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1852", (function(a){return {data:[{author:{id:1852,work:[],name:"尖端軟派文学研究会 ",name_kana:"せんたんなんぱぶんがくけんきゅうかい ",name_en:"sentan'nanpabungakukenkyukai, ",wip:[{title:"恋愛戦線異状なし",subtitle:"",kana_type:"旧字旧仮名",work_id:57355,titleToDisplay:"恋愛戦線異状なし "}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

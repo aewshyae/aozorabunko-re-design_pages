@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/808", {data:[{author:{id:808,work:[],name:"宮島 吉敏",name_kana:"みやじま よしとし",name_en:"Miyajima, Yoshitoshi",born_on:"1888",died_on:"1946-05-09"},bornOn:"1888年1月1日",diedOn:"1946年5月9日"}],fetch:[],mutations:[]});

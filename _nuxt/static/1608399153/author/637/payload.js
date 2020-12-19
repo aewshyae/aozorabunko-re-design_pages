@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/637", {data:[{author:{id:637,work:[],name:"竹内 仁",name_kana:"たけのうち まさし",name_en:"Takenouchi, Masashi",born_on:"1898-08-08",died_on:"1922-11-10"},bornOn:"1898年8月8日",diedOn:"1922年11月10日"}],fetch:[],mutations:[]});

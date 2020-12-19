@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1438", {data:[{author:{id:1438,work:[],name:"大島 庸夫",name_kana:"おおしま つねお",name_en:"Oshima, Tsuneo",born_on:"1902",died_on:"1953",wip:[{title:"マラテスタを想う",subtitle:"",kana_type:"旧字旧仮名",work_id:50428,titleToDisplay:"マラテスタを想う "}]},bornOn:"1902年1月1日",diedOn:"1953年1月1日"}],fetch:[],mutations:[]});

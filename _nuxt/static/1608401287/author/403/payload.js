@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/403", {data:[{author:{id:403,work:[],name:"石河 穰治",name_kana:"いしかわ じょうじ",name_en:"Ishikawa, Joji",born_on:"1911-06-22",died_on:"1941-02-10"},desc:"",showDesc:false,bornOn:"1911年6月22日",diedOn:"1941年2月10日"}],fetch:[],mutations:[]});

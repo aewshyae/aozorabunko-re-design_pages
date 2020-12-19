@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/463", {data:[{author:{id:463,work:[],name:"大橋 新太郎",name_kana:"おおはし しんたろう",name_en:"Ohashi, Shintaro",born_on:"1862-07-29",died_on:"1944-05-05"},bornOn:"1862年7月29日",diedOn:"1944年5月5日"}],fetch:[],mutations:[]});

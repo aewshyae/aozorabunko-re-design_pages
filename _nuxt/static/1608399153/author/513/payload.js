@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/513", {data:[{author:{id:513,work:[],name:"神部 孝",name_kana:"かんべ たかし",name_en:"Kanbe, Takashi",born_on:"1901-09-04",died_on:"1938-06-15"},bornOn:"1901年9月4日",diedOn:"1938年6月15日"}],fetch:[],mutations:[]});

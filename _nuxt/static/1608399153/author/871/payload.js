@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/871", {data:[{author:{id:871,work:[{work_id:3045,title:"金のくびかざり",kana_type:"新字新仮名",titleToDisplay:"金のくびかざり "}],name:"小野 浩",name_kana:"おの ひろし",name_en:"Ono, Hiroshi",born_on:"1894-06-29",died_on:"1933-10-21"},bornOn:"1894年6月29日",diedOn:"1933年10月21日"}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/439", {data:[{author:{id:439,work:[],name:"内田 巌",name_kana:"うちだ いわお",name_en:"Uchida, Iwao",born_on:"1900-02-15",died_on:"1953-07-17"},bornOn:"1900年2月15日",diedOn:"1953年7月17日"}],fetch:[],mutations:[]});

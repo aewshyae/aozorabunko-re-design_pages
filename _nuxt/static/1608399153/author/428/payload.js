@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/428", {data:[{author:{id:428,work:[],name:"今川 節",name_kana:"いまがわ せつ",name_en:"Imagawa, Setsu",born_on:"1908-08-10",died_on:"1934-05-25"},bornOn:"1908年8月10日",diedOn:"1934年5月25日"}],fetch:[],mutations:[]});

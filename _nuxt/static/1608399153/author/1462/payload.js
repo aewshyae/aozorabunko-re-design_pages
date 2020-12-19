@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1462", {data:[{author:{id:1462,work:[],name:"南条 文雄",name_kana:"なんじょう ぶんゆう",name_en:"Nanjo, Bunyu",born_on:"1849-07-01",died_on:"1927-11-09",wip:[{title:"弘法大師求法の𤍠 心を欽仰す",subtitle:"",kana_type:"旧字旧仮名",work_id:50704,titleToDisplay:"弘法大師求法の𤍠 心を欽仰す "}]},bornOn:"1849年7月1日",diedOn:"1927年11月9日"}],fetch:[],mutations:[]});

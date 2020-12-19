@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/292", {data:[{author:{id:292,work:[{work_id:1820,title:"獄中の女より男に",kana_type:"新字旧仮名",titleToDisplay:"獄中の女より男に "}],name:"原田 皐月",name_kana:"はらだ さつき",name_en:"Harada, Satsuki",born_on:"1887",died_on:"1933"},desc:"",showDesc:false,bornOn:"1887年1月1日",diedOn:"1933年1月1日"}],fetch:[],mutations:[]});

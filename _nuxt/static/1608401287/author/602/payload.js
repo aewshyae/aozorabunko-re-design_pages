@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/602", (function(a){return {data:[{author:{id:602,work:[],name:"白石 実三",name_kana:"しらいし じつぞう",name_en:"Shiraishi, Jitsuzo",born_on:"1886-11-11",died_on:"1937-12-02",wip:[{title:"田山花袋先生",subtitle:a,kana_type:"旧字旧仮名",work_id:58833,titleToDisplay:"田山花袋先生 "}]},desc:a,showDesc:false,bornOn:"1886年11月11日",diedOn:"1937年12月2日"}],fetch:[],mutations:[]}}("")));

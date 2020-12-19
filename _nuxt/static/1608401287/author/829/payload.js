@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/829", {data:[{author:{id:829,work:[],name:"矢崎 弾",name_kana:"やざき だん",name_en:"Yazaki, Dan",born_on:"1906-02-01",died_on:"1946-08-09"},desc:"",showDesc:false,bornOn:"1906年2月1日",diedOn:"1946年8月9日"}],fetch:[],mutations:[]});

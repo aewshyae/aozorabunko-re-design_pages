@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2153", (function(a){return {data:[{author:{id:2153,work:[],name:"渡辺 千吉郎",name_kana:"わたなべ せんきちろう",wip:[{title:"利根水源探検紀行",subtitle:"",kana_type:"新字旧仮名",work_id:60467,titleToDisplay:"利根水源探検紀行 "}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

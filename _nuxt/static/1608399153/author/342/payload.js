@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/342", {data:[{author:{id:342,work:[{work_id:2391,title:"残されたる江戸",kana_type:"新字新仮名",titleToDisplay:"残されたる江戸 "}],name:"柴田 流星",name_kana:"しばた りゅうせい",name_en:"Shibata, Ryusei",born_on:"1879-02-28",died_on:"1913-09-27"},bornOn:"1879年2月28日",diedOn:"1913年9月27日"}],fetch:[],mutations:[]});

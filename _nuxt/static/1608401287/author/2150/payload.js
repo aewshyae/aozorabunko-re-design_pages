@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/2150", (function(a,b){return {data:[{author:{id:2150,work:[],name:"笠井 新也",name_kana:"かさい しんや",copyright:true,wip:[{title:"阿波の狸の話",subtitle:a,kana_type:"旧字旧仮名",work_id:60455,titleToDisplay:"阿波の狸の話 "}]},desc:a,showDesc:false,bornOn:b,diedOn:b}],fetch:[],mutations:[]}}("",void 0)));

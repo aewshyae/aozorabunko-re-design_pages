@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/447", (function(a){return {data:[{author:{id:447,work:[],name:"榎本 破笠",name_kana:"えのもと はりゅう",name_en:"Enomoto, Haryu",born_on:"1866",died_on:"1916-11-16",desc:a},desc:a,showDesc:true,bornOn:"1866年1月1日",diedOn:"1916年11月16日"}],fetch:[],mutations:[]}}("※本名、虎彦。")));

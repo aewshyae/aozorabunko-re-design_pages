@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/798", {data:[{author:{id:798,work:[],name:"三矢 重松",name_kana:"みつや しげまつ",name_en:"Mitsuya, Shigematsu",born_on:"1871-11-29",died_on:"1937-07-17"},desc:"",showDesc:false,bornOn:"1871年11月29日",diedOn:"1937年7月17日"}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/445", {data:[{author:{id:445,work:[],name:"海野 厚",name_kana:"うんの あつし",name_en:"Unno, Atsushi",died_on:"1926-05-21"},bornOn:void 0,diedOn:"1926年5月21日"}],fetch:[],mutations:[]});

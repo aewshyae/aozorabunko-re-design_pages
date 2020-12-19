@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/563", {data:[{author:{id:563,work:[],name:"斎藤 悦子",name_kana:"さいとう えつこ",name_en:"Saito, Etsuko",born_on:"1905-12-03",died_on:"1928-11-20"},bornOn:"1905年12月3日",diedOn:"1928年11月20日"}],fetch:[],mutations:[]});
