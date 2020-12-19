@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/779", {data:[{author:{id:779,work:[],name:"松居 松翁",name_kana:"まつい しょうおう",name_en:"Matsui, Shoo",born_on:"1870-02-18",died_on:"1933-07-14",wip:[{title:"血を吸う怪（Ｅ＆Ｈ・ヘロン原作）",subtitle:"",kana_type:"新字新仮名",work_id:57402}]},bornOn:"1870年2月18日",diedOn:"1933年7月14日"}],fetch:[],mutations:[]});

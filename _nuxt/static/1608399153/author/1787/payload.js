@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1787", {data:[{author:{id:1787,work:[],name:"石川 善助",name_kana:"いしかわ ぜんすけ",name_en:"Ishikawa, Zensuke",born_on:"1901-05-16",died_on:"1932-06-27",wip:[{title:"仙台の夏",subtitle:"",kana_type:"新字新仮名",work_id:56566,titleToDisplay:"仙台の夏 "}]},bornOn:"1901年5月16日",diedOn:"1932年6月27日"}],fetch:[],mutations:[]});

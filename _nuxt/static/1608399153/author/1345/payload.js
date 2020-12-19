@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1345", {data:[{author:{id:1345,work:[{work_id:48851,title:"ヴィルヘルム・ヴント",kana_type:"新字新仮名",titleToDisplay:"ヴィルヘルム・ヴント "}],name:"川合 貞一",name_kana:"かわい ていいち",name_en:"Kawai, Teiichi",born_on:"1870-03-29",died_on:"1955-06-19"},bornOn:"1870年3月29日",diedOn:"1955年6月19日"}],fetch:[],mutations:[]});

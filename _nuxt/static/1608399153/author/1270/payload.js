@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1270", {data:[{author:{id:1270,work:[],name:"佐々木 長左衛門",name_kana:"ささき ちょうざえもん",name_en:"Sasaki, Chozaemon",born_on:"1879-12-08",died_on:"1953-03-31",wip:[{title:"アイヌの話",subtitle:"",kana_type:"旧字旧仮名",work_id:46883,titleToDisplay:"アイヌの話 "}]},bornOn:"1879年12月8日",diedOn:"1953年3月31日"}],fetch:[],mutations:[]});

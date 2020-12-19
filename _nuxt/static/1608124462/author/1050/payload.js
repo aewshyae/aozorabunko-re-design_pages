@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1050", {data:[{author:{id:1050,work:[],name:"山辺 習学",name_kana:"やまべ しゅうがく",name_en:"Yamabe, Shugaku",born_on:"1882",died_on:"1944",wip:[{title:"地獄の話",subtitle:"",kana_type:"新字新仮名",work_id:4922}]},bornOn:"1882年1月1日",diedOn:"1944年1月1日"}],fetch:[],mutations:[]});

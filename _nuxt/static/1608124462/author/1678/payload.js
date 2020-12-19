@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1678", {data:[{author:{id:1678,work:[],name:"田中 阿歌麿",name_kana:"たなか あかまろ",name_en:"Tanaka, Akamaro",born_on:"1869-10-30",died_on:"1944-12-01",wip:[{title:"湖と沼",subtitle:"",kana_type:"旧字旧仮名",work_id:54842}]},bornOn:"1869年10月30日",diedOn:"1944年12月1日"}],fetch:[],mutations:[]});

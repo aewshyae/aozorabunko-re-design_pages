@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1896", {data:[{author:{id:1896,work:[],name:"横川 顕正",name_kana:"よこがわ けんしょう",name_en:"Yokogawa, Kensho",born_on:"1904",died_on:"1940",wip:[{title:"禅堂生活",subtitle:"",kana_type:"新字新仮名",work_id:58062,others:[{person_id:1833,person_name:"鈴木 大拙",role:"著者"}]}]},bornOn:"1904年1月1日",diedOn:"1940年1月1日"}],fetch:[],mutations:[]});

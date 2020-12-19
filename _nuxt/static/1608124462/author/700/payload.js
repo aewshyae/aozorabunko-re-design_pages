@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/700", {data:[{author:{id:700,work:[],name:"中村 吉蔵",name_kana:"なかむら きちぞう",name_en:"Nakamura, Kichizo",born_on:"1877-05-15",died_on:"1941-12-24",wip:[{title:"サロメ",subtitle:"",kana_type:"旧字旧仮名",work_id:42944,others:[{person_id:332,person_name:"ワイルド オスカー",role:"著者"}]}]},bornOn:"1877年5月15日",diedOn:"1941年12月24日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1743", {data:[{author:{id:1743,work:[],name:"船越 衛",name_kana:"ふなこし まもる",name_en:"Funakoshi, Mamoru",born_on:"1840-07-13",died_on:"1913-12-23",wip:[{title:"明治維新の際における朝鮮論",subtitle:"",kana_type:"新字新仮名",work_id:55759,titleToDisplay:"明治維新の際における朝鮮論 "}]},bornOn:"1840年7月13日",diedOn:"1913年12月23日"}],fetch:[],mutations:[]});

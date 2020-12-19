@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1371", {data:[{author:{id:1371,work:[{work_id:49578,title:"平ヶ岳登攀記",kana_type:"新字新仮名"}],name:"高頭 仁兵衛",name_kana:"たかとう じんべえ",name_en:"Takato, Jinbe",born_on:"1877-05-20",died_on:"1958-04-06"},bornOn:"1877年5月20日",diedOn:"1958年4月6日"}],fetch:[],mutations:[]});

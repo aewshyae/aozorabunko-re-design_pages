@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1616", {data:[{author:{id:1616,work:[],name:"中西 伊之助",name_kana:"なかにし いのすけ",name_en:"Nakanishi, Inosuke",born_on:"1887-02-08",died_on:"1958-09-01",wip:[{title:"首のころがる",subtitle:"",kana_type:"新字新仮名",work_id:53980}]},bornOn:"1887年2月8日",diedOn:"1958年9月1日"}],fetch:[],mutations:[]});

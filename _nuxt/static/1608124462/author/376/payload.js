@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/376", {data:[{author:{id:376,work:[],name:"青木 月斗",name_kana:"あおき げつと",name_en:"Aoki, Getto",born_on:"1879-11-20",died_on:"1949-03-17",wip:[{title:"月斗翁句抄",subtitle:"",kana_type:"旧字旧仮名",work_id:52351}]},bornOn:"1879年11月20日",diedOn:"1949年3月17日"}],fetch:[],mutations:[]});

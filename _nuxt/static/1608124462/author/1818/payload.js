@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1818", {data:[{author:{id:1818,work:[],name:"山田 松太郎",name_kana:"やまだ まつたろう",name_en:"Yamada, Matsutaro",born_on:"1898-10-31",died_on:"1962-01-01",wip:[{title:"勝利者と敗北者",subtitle:"",kana_type:"旧字旧仮名",work_id:56898,others:[{person_id:1817,person_name:"ゴールズワージー ジョン",role:"著者"}]}]},bornOn:"1898年10月31日",diedOn:"1962年1月1日"}],fetch:[],mutations:[]});

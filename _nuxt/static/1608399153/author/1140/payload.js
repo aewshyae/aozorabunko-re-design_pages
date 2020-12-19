@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1140", {data:[{author:{id:1140,work:[],name:"阿部 正己",name_kana:"あべ まさき",name_en:"Abe, Masaki",born_on:"1879",died_on:"1946",wip:[{title:"出羽三山史",subtitle:"",kana_type:"旧字旧仮名",work_id:43416,titleToDisplay:"出羽三山史 "}]},bornOn:"1879年1月1日",diedOn:"1946年1月1日"}],fetch:[],mutations:[]});

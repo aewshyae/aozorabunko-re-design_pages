@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2140", (function(a){return {data:[{author:{id:2140,work:[],name:"末 ",name_kana:"まつ ",name_en:"Matsu, ",copyright:true,wip:[{title:"紳士の皆様！",subtitle:"陛下に乾杯！　",kana_type:"新字新仮名",work_id:60319,others:[{person_id:2139,person_name:"ラニアン デイモン",role:"著者"}]}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

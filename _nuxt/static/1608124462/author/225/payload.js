@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/225", {data:[{author:{id:225,work:[{work_id:1142,title:"美術曲芸しん粉細工",kana_type:"新字新仮名"}],name:"阿部 徳蔵",name_kana:"あべ とくぞう",name_en:"Abe, Tokuzo",born_on:"1889",died_on:"1944"},bornOn:"1889年1月1日",diedOn:"1944年1月1日"}],fetch:[],mutations:[]});

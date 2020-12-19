@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/925", {data:[{author:{id:925,work:[],name:"原 石鼎",name_kana:"はら せきてい",name_en:"Hara, Sekitei",born_on:"1886-06-01",died_on:"1951-12-20",wip:[{title:"花影",subtitle:"",kana_type:"新字旧仮名",work_id:55241}]},bornOn:"1886年6月1日",diedOn:"1951年12月20日"}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/541", {data:[{author:{id:541,work:[],name:"黒板 勝美",name_kana:"くろいた かつみ",name_en:"Kuroita, Katsumi",born_on:"1874-09-03",died_on:"1946-12-21",wip:[{title:"吾妻鏡",subtitle:"第一　",kana_type:"旧字旧仮名",work_id:49409}]},bornOn:"1874年9月3日",diedOn:"1946年12月21日"}],fetch:[],mutations:[]});

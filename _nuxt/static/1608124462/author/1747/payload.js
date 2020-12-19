@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1747", {data:[{author:{id:1747,work:[],name:"本田 成之",name_kana:"ほんだ しげゆき",name_en:"Honda, Shigeyuki",born_on:"1882",died_on:"1945",wip:[{title:"支那経学史論",subtitle:"",kana_type:"旧字旧仮名",work_id:55792}]},bornOn:"1882年1月1日",diedOn:"1945年1月1日"}],fetch:[],mutations:[]});

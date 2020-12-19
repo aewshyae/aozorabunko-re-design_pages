@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1856", {data:[{author:{id:1856,work:[],name:"酒井 潔",name_kana:"さかい きよし",name_en:"Sakai, Kiyoshi",born_on:"1985",died_on:"1952",wip:[{title:"エロエロ草紙",subtitle:"",kana_type:"旧字旧仮名",work_id:57364}]},bornOn:"1985年1月1日",diedOn:"1952年1月1日"}],fetch:[],mutations:[]});

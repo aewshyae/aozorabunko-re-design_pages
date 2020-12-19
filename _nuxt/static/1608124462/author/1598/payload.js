@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1598", (function(a){return {data:[{author:{id:1598,work:[],name:"竹内 時男",name_kana:"たけうち ときお",name_en:"Takeuchi, Tokio",wip:[{title:"アインシュタインと其の思想",subtitle:"",kana_type:"旧字旧仮名",work_id:53716}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

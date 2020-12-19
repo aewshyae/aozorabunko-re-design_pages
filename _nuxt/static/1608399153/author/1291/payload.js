@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1291", {data:[{author:{id:1291,work:[],name:"武笠 三",name_kana:"むかさ さん",name_en:"Mukasa, San",born_on:"1871",died_on:"1929",wip:[{title:"源氏物語",subtitle:"",kana_type:"旧字旧仮名",work_id:47153,others:[{person_id:52,person_name:"紫式部 ",role:"著者"}],titleToDisplay:"源氏物語 "}]},bornOn:"1871年1月1日",diedOn:"1929年1月1日"}],fetch:[],mutations:[]});

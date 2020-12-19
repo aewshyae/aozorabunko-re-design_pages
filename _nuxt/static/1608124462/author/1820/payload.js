@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1820", {data:[{author:{id:1820,work:[],name:"岩井 尊人",name_kana:"いわい たかひと",name_en:"Iwai, Takahito",born_on:"1892",died_on:"1940-12-18",wip:[{title:"あさどり",subtitle:"",kana_type:"新字新仮名",work_id:56927}]},bornOn:"1892年1月1日",diedOn:"1940年12月18日"}],fetch:[],mutations:[]});

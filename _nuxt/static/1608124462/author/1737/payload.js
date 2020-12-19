@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1737", {data:[{author:{id:1737,work:[],name:"上村 福幸",name_kana:"うえむら よしゆき",name_en:"Uemura, Yoshiyuki",born_on:"1893-02-18",died_on:"1954-04-20",wip:[{title:"了解心理学",subtitle:"",kana_type:"新字新仮名",work_id:55624}]},bornOn:"1893年2月18日",diedOn:"1954年4月20日"}],fetch:[],mutations:[]});

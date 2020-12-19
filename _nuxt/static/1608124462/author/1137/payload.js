@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1137", (function(a,b){return {data:[{author:{id:1137,work:[{work_id:42809,title:"探偵小説アルセーヌ・ルパン",person_id:a,kana_type:"新字新仮名",others:[{person_id:a,person_name:"ルブラン モーリス",role:"著者"}]}],name:"婦人文化研究会 ",name_kana:"ふじんぶんかけんきゅうかい ",name_en:"Fujinbunkakenkyukai, "},bornOn:b,diedOn:b}],fetch:[],mutations:[]}}(1121,void 0)));

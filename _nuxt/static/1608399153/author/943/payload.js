@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/943", (function(a){return {data:[{author:{id:943,work:[{work_id:4613,title:"北陸の子供たちの詩",kana_type:"新字新仮名",titleToDisplay:"北陸の子供たちの詩 "}],name:"北陸の子供たち２１名 ",name_kana:"ほくりくのこどもたちにじゅういちめい ",name_en:"Hokurikunokodomotachinijuichimei, ",copyright:true},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

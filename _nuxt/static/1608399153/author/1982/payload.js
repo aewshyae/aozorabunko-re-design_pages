@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1982", {data:[{author:{id:1982,work:[],name:"前沢 長太郎",name_kana:"まえざわ ちょうたろう",name_en:"Maezawa, Chotaro",born_on:"1895",died_on:"1963",wip:[{title:"盤石よもやま",subtitle:"",kana_type:"新字新仮名",work_id:58945,titleToDisplay:"盤石よもやま "}]},bornOn:"1895年1月1日",diedOn:"1963年1月1日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1220", (function(a,b){return {data:[{author:{id:1220,work:[],name:a,name_kana:a,copyright:true,wip:[{title:"〔翻訳〕プルウストに就てのクロッキ",subtitle:"",kana_type:"新字旧仮名",work_id:45787,others:[{person_id:1095,person_name:"坂口 安吾",role:"翻訳者"}],titleToDisplay:"〔翻訳〕プルウストに就てのクロッキ "}]},bornOn:b,diedOn:b}],fetch:[],mutations:[]}}("シェイケビッチ マリイ",void 0)));

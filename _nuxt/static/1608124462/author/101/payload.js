@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/101", (function(a,b){return {data:[{author:{id:101,work:[{work_id:537,title:"魔法のおなべ",person_id:a,kana_type:"新字新仮名",others:[{person_id:a,person_name:"レイモンド  エリック",role:"著者"},{person_id:30,person_name:"山形 浩生",role:"翻訳者"}]}],name:"田宮 まや",name_kana:"たみや まや",name_en:"Tamiya, Maya",copyright:true},bornOn:b,diedOn:b}],fetch:[],mutations:[]}}(29,void 0)));

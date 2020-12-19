@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1442", {data:[{author:{id:1442,work:[],name:"大田 南畝",name_kana:"おおた なんぽ",name_en:"Ota, Nanpo",born_on:"1749-04-19",died_on:"1823-05-16",wip:[{title:"蜀山百首",subtitle:"",kana_type:"旧字旧仮名",work_id:50441,titleToDisplay:"蜀山百首 "}]},bornOn:"1749年4月19日",diedOn:"1823年5月16日"}],fetch:[],mutations:[]});

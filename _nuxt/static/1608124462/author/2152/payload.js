@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2152", (function(a){return {data:[{author:{id:2152,work:[],name:"長瀬 金平",name_kana:"ながせ きんぺい",name_en:"Nagase, Kinpei",wip:[{title:"オリムピヤ選手豫選",subtitle:"",kana_type:"その他",work_id:60464}]},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/215", (function(a){return {data:[{author:{id:215,work:[{work_id:1068,title:"自転車の夏",kana_type:"新字新仮名"}],name:"栗林 元",name_kana:"くりばやし はじめ",name_en:"Kuribayashi, Hajime",desc:"1958年、名古屋市生まれ。愛知県小牧市在住。広告会社の営業を経て、現在クリエイティブセクションにてWEBプランナーとして活動。（栗林 元）",copyright:true},bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

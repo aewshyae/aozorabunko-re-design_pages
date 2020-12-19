@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/787", {data:[{author:{id:787,work:[],name:"三浦 新七",name_kana:"みうら しんしち",name_en:"Miura, Shinshichi",born_on:"1877-06-12",died_on:"1946-08-14",wip:[{title:"序言",subtitle:"",kana_type:"旧字旧仮名",work_id:47135}]},bornOn:"1877年6月12日",diedOn:"1946年8月14日"}],fetch:[],mutations:[]});

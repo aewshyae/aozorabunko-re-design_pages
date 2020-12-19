@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/477", {data:[{author:{id:477,work:[],name:"小倉 進平",name_kana:"おぐら しんぺい",name_en:"Ogura, Shinpei",born_on:"1882-06-04",died_on:"1944-02-08",wip:[{title:"日本紀に於ける外来語研究",subtitle:"",kana_type:"旧字旧仮名",work_id:54530}]},bornOn:"1882年6月4日",diedOn:"1944年2月8日"}],fetch:[],mutations:[]});

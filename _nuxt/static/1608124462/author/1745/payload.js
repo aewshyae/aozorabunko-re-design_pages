@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1745", {data:[{author:{id:1745,work:[],name:"大倉 喜八郎",name_kana:"おおくら きはちろう",name_en:"Okura, Kihachiro",born_on:"1837-10-23",died_on:"1928-04-22",wip:[{title:"鹿鳴館時代の回顧",subtitle:"明治大正の文化",kana_type:"新字新仮名",work_id:55788}]},bornOn:"1837年10月23日",diedOn:"1928年4月22日"}],fetch:[],mutations:[]});

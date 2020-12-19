@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1079", {data:[{author:{id:1079,work:[],name:"井上 芳郎",name_kana:"いのうえ よしお",name_en:"Inoue, Yosio",born_on:"1988",died_on:"1945-02",wip:[{title:"シュメル・バビロン社会史",subtitle:"",kana_type:"新字旧仮名",work_id:42211}]},bornOn:"1988年1月1日",diedOn:"1945年2月1日"}],fetch:[],mutations:[]});

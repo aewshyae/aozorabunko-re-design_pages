@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1375", {data:[{author:{id:1375,work:[{work_id:49582,title:"穂高岳槍ヶ岳縦走記",kana_type:"新字新仮名",titleToDisplay:"穂高岳槍ヶ岳縦走記 "}],name:"鵜殿 正雄",name_kana:"うどの まさお",name_en:"Udono, Masao",born_on:"1877",died_on:"1945"},bornOn:"1877年1月1日",diedOn:"1945年1月1日"}],fetch:[],mutations:[]});

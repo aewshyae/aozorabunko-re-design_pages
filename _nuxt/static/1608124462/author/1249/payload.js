@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1249", {data:[{author:{id:1249,work:[],name:"柴 五郎",name_kana:"しば ごろう",name_en:"Shiba, Goro",born_on:"1859",died_on:"1945",wip:[{title:"北京籠城",subtitle:"",kana_type:"旧字旧仮名",work_id:46556}]},bornOn:"1859年1月1日",diedOn:"1945年1月1日"}],fetch:[],mutations:[]});

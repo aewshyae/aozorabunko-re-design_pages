@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1771", {data:[{author:{id:1771,work:[],name:"宮崎 滔天",name_kana:"みやざき とうてん",name_en:"Miyazaki, Toten",born_on:"1871-01-23",died_on:"1922-12-06",wip:[{title:"三十三年の夢",subtitle:"",kana_type:"新字新仮名",work_id:56164}]},bornOn:"1871年1月23日",diedOn:"1922年12月6日"}],fetch:[],mutations:[]});

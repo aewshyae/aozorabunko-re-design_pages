@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/353", (function(a,b){return {data:[{author:{id:353,work:[],name:a,name_kana:a,name_en:"Kirushe, ",copyright:true,wip:[{title:"ドリアン・グレイの肖像画",subtitle:"",kana_type:"新字新仮名",work_id:2197,others:[{person_id:332,person_name:"ワイルド オスカー",role:"著者"}]}]},bornOn:b,diedOn:b}],fetch:[],mutations:[]}}("きるしぇ ",void 0)));

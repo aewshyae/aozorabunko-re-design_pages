@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1718", {data:[{author:{id:1718,work:[],name:"日野 草城",name_kana:"ひの そうじょう",name_en:"Hino, Sojo",born_on:"1901-07-18",died_on:"1956-01-29",wip:[{title:"旦暮",subtitle:"",kana_type:"新字旧仮名",work_id:55257}]},bornOn:"1901年7月18日",diedOn:"1956年1月29日"}],fetch:[],mutations:[]});

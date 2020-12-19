@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1496", {data:[{author:{id:1496,work:[],name:"栗本 鋤雲",name_kana:"くりもと じょうん",name_en:"Krimoto, Joun",born_on:"1822-05-01",died_on:"1897-03-06",wip:[{title:"暁窓追録",subtitle:"",kana_type:"新字旧仮名",work_id:51225,titleToDisplay:"暁窓追録 "}]},bornOn:"1822年5月1日",diedOn:"1897年3月6日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/596", {data:[{author:{id:596,work:[],name:"島田 青峰",name_kana:"しまだ せいほう",name_en:"Shimada, Seiho",born_on:"1882-03-08",died_on:"1944-05-31",wip:[{title:"志摩の海",subtitle:"",kana_type:"新字新仮名",work_id:57390,titleToDisplay:"志摩の海 "}]},bornOn:"1882年3月8日",diedOn:"1944年5月31日"}],fetch:[],mutations:[]});
