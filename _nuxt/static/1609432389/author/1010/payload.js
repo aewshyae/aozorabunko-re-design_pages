@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1010", {data:[{author:{id:1010,work:[],name:"長谷川 零余子",name_kana:"はせがわ れいよし",name_en:"Hasegawa, Reiyoshi",born_on:"1886-05-23",died_on:"1928-07-27"},desc:"",showDesc:false,bornOn:"1886年5月23日",diedOn:"1928年7月27日"}],fetch:[],mutations:[]});

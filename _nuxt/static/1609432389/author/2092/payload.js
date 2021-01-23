@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2092", {data:[{author:{id:2092,work:[{work_id:59878,title:"ブイヨン・ドンゾール",subtitle:"――十一時の肉の煮出し――",kana_type:"新字新仮名",titleToDisplay:"ブイヨン・ドンゾール ――十一時の肉の煮出し――"}],name:"滝沢 敬一",name_kana:"たきざわ けいいち",name_en:"Takizawa, Keiichi",born_on:"1884-03-23",died_on:"1965-02-26"},desc:"",showDesc:false,bornOn:"1884年3月23日",diedOn:"1965年2月26日"}],fetch:[],mutations:[]});

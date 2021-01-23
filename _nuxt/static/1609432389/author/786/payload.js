@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/786", {data:[{author:{id:786,work:[],name:"三浦 吉兵衛",name_kana:"みうら きちべえ",name_en:"Miura, Kichibe",born_on:"1877-02-18",died_on:"1939-12-31"},desc:"",showDesc:false,bornOn:"1877年2月18日",diedOn:"1939年12月31日"}],fetch:[],mutations:[]});

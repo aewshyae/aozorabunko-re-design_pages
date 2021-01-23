@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/776", {data:[{author:{id:776,work:[],name:"増地 庸治郎",name_kana:"ますち ようじろう",name_en:"Masuchi, Yojiro",born_on:"1896-01-05",died_on:"1945-03-10"},desc:"",showDesc:false,bornOn:"1896年1月5日",diedOn:"1945年3月10日"}],fetch:[],mutations:[]});

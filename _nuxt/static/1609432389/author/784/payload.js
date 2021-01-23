@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/784", {data:[{author:{id:784,work:[],name:"松山 武",name_kana:"まつやま たけし",name_en:"Matsuyama, Takeshi",born_on:"1898-03-29",died_on:"1938-02-16"},desc:"",showDesc:false,bornOn:"1898年3月29日",diedOn:"1938年2月16日"}],fetch:[],mutations:[]});

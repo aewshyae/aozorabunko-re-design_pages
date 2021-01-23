@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/579", {data:[{author:{id:579,work:[],name:"佐野 文夫",name_kana:"さの ふみお",name_en:"Sano, Fumio",born_on:"1892-04-18",died_on:"1931-03-01"},desc:"",showDesc:false,bornOn:"1892年4月18日",diedOn:"1931年3月1日"}],fetch:[],mutations:[]});

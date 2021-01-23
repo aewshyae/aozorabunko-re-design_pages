@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/400", {data:[{author:{id:400,work:[],name:"石井 直三郎",name_kana:"いしい なおさぶろう",name_en:"Ishii, Naosaburo",born_on:"1890-07-18",died_on:"1936-04-23"},desc:"",showDesc:false,bornOn:"1890年7月18日",diedOn:"1936年4月23日"}],fetch:[],mutations:[]});
