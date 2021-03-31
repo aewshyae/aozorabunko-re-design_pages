@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1255", (function(a){return {data:[{author:{id:1255,work:[],name:"小金井 良精",name_kana:"こがねい よしきよ",name_en:"Koganei, Yoshikiyo",born_on:"1858",died_on:"1944",wip:[{title:"日本石器時代の住民",subtitle:a,kana_type:"旧字旧仮名",work_id:46614,titleToDisplay:"日本石器時代の住民 "}]},desc:a,showDesc:false,bornOn:"1858年1月1日",diedOn:"1944年1月1日"}],fetch:[],mutations:[]}}("")));

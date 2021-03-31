@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/850", {data:[{author:{id:850,work:[],name:"吉川 秀雄",name_kana:"よしかわ ひでお",name_en:"Yoshikawa, Hideo",born_on:"1882-07-15",died_on:"1944-01-22"},desc:"",showDesc:false,bornOn:"1882年7月15日",diedOn:"1944年1月22日"}],fetch:[],mutations:[]});

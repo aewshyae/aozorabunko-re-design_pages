@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/554", {data:[{author:{id:554,work:[],name:"小寺 融吉",name_kana:"こでら ゆうきち",name_en:"Kodera, Yukichi",born_on:"1895-12-08",died_on:"1945-03-29"},desc:"",showDesc:false,bornOn:"1895年12月8日",diedOn:"1945年3月29日"}],fetch:[],mutations:[]});

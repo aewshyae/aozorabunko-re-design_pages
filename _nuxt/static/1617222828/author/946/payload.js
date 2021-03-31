@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/946", (function(a){return {data:[{author:{id:946,work:[],name:"荒木 巍",name_kana:"あらき たかし",name_en:"Araki, Takashi",born_on:"1905-10-04",died_on:"1950-06-04",wip:[{title:"光を背負う男",subtitle:a,kana_type:"新字新仮名",work_id:50923,titleToDisplay:"光を背負う男 "}]},desc:a,showDesc:false,bornOn:"1905年10月4日",diedOn:"1950年6月4日"}],fetch:[],mutations:[]}}("")));

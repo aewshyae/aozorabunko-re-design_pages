@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1491", (function(a){return {data:[{author:{id:1491,work:[],name:"流泉 小史",name_kana:"りゅうせん しょうし",name_en:"Ryusen, Shoshi",born_on:"1887",died_on:"1940",wip:[{title:"新選組剣豪秘話",subtitle:a,kana_type:"新字新仮名",work_id:51189,titleToDisplay:"新選組剣豪秘話 "}]},desc:a,showDesc:false,bornOn:"1887年1月1日",diedOn:"1940年1月1日"}],fetch:[],mutations:[]}}("")));

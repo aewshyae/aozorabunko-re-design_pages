@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/739", {data:[{author:{id:739,work:[],name:"原 敬",name_kana:"はら たかし",name_en:"Hara, Takashi",born_on:"1856-03-15",died_on:"1921-11-04"},desc:"",showDesc:false,bornOn:"1856年3月15日",diedOn:"1921年11月4日"}],fetch:[],mutations:[]});

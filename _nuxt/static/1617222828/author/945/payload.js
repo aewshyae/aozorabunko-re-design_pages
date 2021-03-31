@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/945", {data:[{author:{id:945,work:[],name:"赤星 ヨウ",name_kana:"あかぼし よう",name_en:"Akaboshi, Yo",born_on:"1890-12-10",died_on:"1942-12-17"},desc:"",showDesc:false,bornOn:"1890年12月10日",diedOn:"1942年12月17日"}],fetch:[],mutations:[]});

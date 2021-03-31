@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/773", {data:[{author:{id:773,work:[],name:"牧野 伸顕",name_kana:"まきの のぶあき",name_en:"Makino, Nobuaki",born_on:"1861-11-24",died_on:"1949-01-25"},desc:"",showDesc:false,bornOn:"1861年11月24日",diedOn:"1949年1月25日"}],fetch:[],mutations:[]});

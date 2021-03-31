@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/481", {data:[{author:{id:481,work:[],name:"落合 直文",name_kana:"おちあい なおぶみ",name_en:"Ochiai, Naobumi",born_on:"1861-12-16",died_on:"1903-12-16"},desc:"",showDesc:false,bornOn:"1861年12月16日",diedOn:"1903年12月16日"}],fetch:[],mutations:[]});

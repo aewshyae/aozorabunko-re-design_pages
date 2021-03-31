@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/456", (function(a){return {data:[{author:{id:456,work:[],name:"大塚 楠緒子",name_kana:"おおつか くすおこ",name_en:"Otsuka, Kusuoko",born_on:"1875-08-09",died_on:"1910-11-09",wip:[{title:"お百度詣",subtitle:a,kana_type:"旧字旧仮名",work_id:60726,titleToDisplay:"お百度詣 "}]},desc:a,showDesc:false,bornOn:"1875年8月9日",diedOn:"1910年11月9日"}],fetch:[],mutations:[]}}("")));

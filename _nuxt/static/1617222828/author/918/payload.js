@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/918", {data:[{author:{id:918,work:[],name:"岡 麓",name_kana:"おか ふもと",name_en:"Oka, Fumoto",born_on:"1877-03-03",died_on:"1951-09-07"},desc:"",showDesc:false,bornOn:"1877年3月3日",diedOn:"1951年9月7日"}],fetch:[],mutations:[]});

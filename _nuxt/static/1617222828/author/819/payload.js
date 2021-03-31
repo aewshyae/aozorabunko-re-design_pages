@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/819", {data:[{author:{id:819,work:[],name:"茂木 蔵之助",name_kana:"もぎ くらのすけ",name_en:"Mogi, Kuranosuke",born_on:"1880-01-03",died_on:"1945-02-22"},desc:"",showDesc:false,bornOn:"1880年1月3日",diedOn:"1945年2月22日"}],fetch:[],mutations:[]});

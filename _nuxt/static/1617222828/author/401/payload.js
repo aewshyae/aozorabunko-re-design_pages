@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/401", {data:[{author:{id:401,work:[],name:"石井 露月",name_kana:"いしい ろげつ",name_en:"Ishii, Rogetsu",born_on:"1873-05-17",died_on:"1928-09-18"},desc:"",showDesc:false,bornOn:"1873年5月17日",diedOn:"1928年9月18日"}],fetch:[],mutations:[]});
