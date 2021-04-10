@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1815", (function(a){return {data:[{author:{id:1815,work:[],name:"小早川 秀雄",name_kana:"こばやかわ ひでお",name_en:"Kobayakawa, Hideo",born_on:"1870",died_on:"1920",wip:[{title:"血史 熊本敬神党",subtitle:a,kana_type:"旧字旧仮名",work_id:56887,titleToDisplay:"血史 熊本敬神党 "}]},desc:a,showDesc:false,bornOn:"1870年1月1日",diedOn:"1920年1月1日"}],fetch:[],mutations:[]}}("")));

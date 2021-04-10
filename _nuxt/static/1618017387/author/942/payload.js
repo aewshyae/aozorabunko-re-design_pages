@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/942", (function(a){return {data:[{author:{id:942,work:[],name:"福沢 桃介",name_kana:"ふくざわ ももすけ",name_en:"Fukuzawa, Momosuke",born_on:"1868-06-25",died_on:"1938-02-15",wip:[{title:"福沢桃介の経営学",subtitle:a,kana_type:"新字新仮名",work_id:4500,titleToDisplay:"福沢桃介の経営学 "}]},desc:a,showDesc:false,bornOn:"1868年6月25日",diedOn:"1938年2月15日"}],fetch:{},mutations:[]}}("")));

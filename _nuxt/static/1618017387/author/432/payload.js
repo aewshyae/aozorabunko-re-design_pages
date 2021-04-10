@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/432", {data:[{author:{id:432,work:[],name:"岩野 晁次郎",name_kana:"いわの ちょうじろう",name_en:"Iwano, Chojiro",born_on:"1902-05-25",died_on:"1945-06-30"},desc:"",showDesc:false,bornOn:"1902年5月25日",diedOn:"1945年6月30日"}],fetch:{},mutations:[]});

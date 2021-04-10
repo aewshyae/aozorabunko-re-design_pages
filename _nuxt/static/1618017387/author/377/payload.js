@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/377", {data:[{author:{id:377,work:[],name:"赤木 桁平",name_kana:"あかぎ こうへい",name_en:"Akagi, Kohei",born_on:"1891-02-09",died_on:"1949-12-10",alt_id:947,alt_name:"池崎 忠孝"},desc:"",showDesc:false,bornOn:"1891年2月9日",diedOn:"1949年12月10日"}],fetch:{},mutations:[]});

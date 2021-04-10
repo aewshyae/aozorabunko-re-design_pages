@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/668", {data:[{author:{id:668,work:[],name:"戸川 残花",name_kana:"とがわ ざんか",name_en:"Togawa, Zanka",born_on:"1855-10-22",died_on:"1924-12-08"},desc:"",showDesc:false,bornOn:"1855年10月22日",diedOn:"1924年12月8日"}],fetch:{},mutations:[]});

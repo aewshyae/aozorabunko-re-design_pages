@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/130", (function(a){return {data:[{author:{id:130,work:[{work_id:700,title:"ロック、70年代―復刻CDに時代を聴く",kana_type:"新字新仮名",titleToDisplay:"ロック、70年代―復刻CDに時代を聴く "}],name:"秋野 平",name_kana:"あきの たいら",name_en:"Akino, Taira",copyright:true},desc:"",showDesc:false,bornOn:a,diedOn:a}],fetch:[],mutations:[]}}(void 0)));

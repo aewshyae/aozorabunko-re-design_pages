@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/472", {data:[{author:{id:472,work:[],name:"岡村 柿紅",name_kana:"おかむら しこう",name_en:"Okamura, Shiko",born_on:"1881-09-14",died_on:"1925-05-06"},desc:"",showDesc:false,bornOn:"1881年9月14日",diedOn:"1925年5月6日"}],fetch:{},mutations:[]});

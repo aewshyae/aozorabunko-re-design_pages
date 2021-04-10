@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1386", (function(a){return {data:[{author:{id:1386,work:[],name:"松崎 鶴雄",name_kana:"まつざき つるお",name_en:"Matsuzaki, Tsuruo",born_on:"1867",died_on:"1949",wip:[{title:"憶江南",subtitle:a,kana_type:"旧字旧仮名",work_id:49688,titleToDisplay:"憶江南 "}]},desc:a,showDesc:false,bornOn:"1867年1月1日",diedOn:"1949年1月1日"}],fetch:[],mutations:[]}}("")));

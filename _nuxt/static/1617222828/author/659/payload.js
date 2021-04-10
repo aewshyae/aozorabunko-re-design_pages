@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/659", {data:[{author:{id:659,work:[],name:"千葉 亀雄",name_kana:"ちば かめお",name_en:"Chiba, Kameo",born_on:"1878-09-24",died_on:"1935-10-04"},desc:"",showDesc:false,bornOn:"1878年9月24日",diedOn:"1935年10月4日"}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/857", {data:[{author:{id:857,work:[],name:"依田 秋圃",name_kana:"よだ しゅうほ",name_en:"Yoda, Shuho",born_on:"1885-01-08",died_on:"1943-12-03"},desc:"",showDesc:false,bornOn:"1885年1月8日",diedOn:"1943年12月3日"}],fetch:[],mutations:[]});

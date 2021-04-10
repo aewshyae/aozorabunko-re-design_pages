@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1361", {data:[{author:{id:1361,work:[{work_id:49257,title:"□本居士",kana_type:"新字新仮名",titleToDisplay:"□本居士 "}],name:"本田 親二",name_kana:"ほんだ しんじ",name_en:"Honda, Shinji",born_on:"1885",died_on:"1948"},desc:"",showDesc:false,bornOn:"1885年1月1日",diedOn:"1948年1月1日"}],fetch:[],mutations:[]});

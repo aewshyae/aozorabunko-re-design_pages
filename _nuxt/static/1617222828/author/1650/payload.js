@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1650", {data:[{author:{id:1650,work:[],name:"許 泳",name_kana:"ほ よん",name_en:"Ho, Yon",born_on:"1908-09-21",died_on:"1952-09-09"},desc:"",showDesc:false,bornOn:"1908年9月21日",diedOn:"1952年9月9日"}],fetch:[],mutations:[]});

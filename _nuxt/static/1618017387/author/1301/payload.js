@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1301", {data:[{author:{id:1301,work:[],name:"島地 大等",name_kana:"しまじ だいとう",name_en:"Shimaji, Daito",born_on:"1875",died_on:"1927",wip:[{title:"明治宗教史",subtitle:"基督教及佛教",kana_type:"旧字旧仮名",work_id:47335,titleToDisplay:"明治宗教史 基督教及佛教"}]},desc:"",showDesc:false,bornOn:"1875年1月1日",diedOn:"1927年1月1日"}],fetch:{},mutations:[]});

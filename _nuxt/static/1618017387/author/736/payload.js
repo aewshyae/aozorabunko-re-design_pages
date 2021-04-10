@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/736", {data:[{author:{id:736,work:[],name:"早川 二郎",name_kana:"はやかわ じろう",name_en:"Hayakawa, Jiro",born_on:"1905-01-26",died_on:"1937-11-08"},desc:"",showDesc:false,bornOn:"1905年1月26日",diedOn:"1937年11月8日"}],fetch:{},mutations:[]});

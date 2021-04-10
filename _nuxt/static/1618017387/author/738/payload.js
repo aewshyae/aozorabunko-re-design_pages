@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/738", {data:[{author:{id:738,work:[],name:"速水 滉",name_kana:"はやみ ひろし",name_en:"Hayami, Hiroshi",born_on:"1876-10-23",died_on:"1943-06-27"},desc:"",showDesc:false,bornOn:"1876年10月23日",diedOn:"1943年6月27日"}],fetch:{},mutations:[]});

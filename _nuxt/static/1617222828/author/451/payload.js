@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/451", {data:[{author:{id:451,work:[],name:"大河内 翠山",name_kana:"おおこうち すいざん",name_en:"Okochi, Suizan",born_on:"1880-02-05",died_on:"1938-11-18"},desc:"",showDesc:false,bornOn:"1880年2月5日",diedOn:"1938年11月18日"}],fetch:[],mutations:[]});

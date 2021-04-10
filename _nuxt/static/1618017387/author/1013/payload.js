@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1013", {data:[{author:{id:1013,work:[],name:"星野 天知",name_kana:"ほしの てんち",name_en:"Hoshino, Tenchi",born_on:"1862-01-10",died_on:"1950-09-17"},desc:"",showDesc:false,bornOn:"1862年1月10日",diedOn:"1950年9月17日"}],fetch:{},mutations:[]});

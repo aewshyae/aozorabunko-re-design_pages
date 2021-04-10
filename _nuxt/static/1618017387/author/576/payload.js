@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/576", {data:[{author:{id:576,work:[],name:"佐藤 仁之助",name_kana:"さとう じんのすけ",name_en:"Sato, Jinnosuke",born_on:"1869-05-28",died_on:"1939-07-24"},desc:"",showDesc:false,bornOn:"1869年5月28日",diedOn:"1939年7月24日"}],fetch:{},mutations:[]});

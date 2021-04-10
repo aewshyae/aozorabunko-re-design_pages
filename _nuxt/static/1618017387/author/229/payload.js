@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/229", {data:[{author:{id:229,work:[{work_id:1153,title:"猫と色の嗜好",kana_type:"新字新仮名",titleToDisplay:"猫と色の嗜好 "}],name:"石田 孫太郎",name_kana:"いしだ まごたろう",name_en:"Ishida, Magotaro",born_on:"1874",died_on:"1936"},desc:"",showDesc:false,bornOn:"1874年1月1日",diedOn:"1936年1月1日"}],fetch:{},mutations:[]});

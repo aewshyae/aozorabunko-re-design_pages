@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/497", {data:[{author:{id:497,work:[],name:"仮名垣 魯文",name_kana:"かながき ろぶん",name_en:"Kanagaki, Robun",born_on:"1829-02-09",died_on:"1894-11-08"},desc:"",showDesc:false,bornOn:"1829年2月9日",diedOn:"1894年11月8日"}],fetch:{},mutations:[]});

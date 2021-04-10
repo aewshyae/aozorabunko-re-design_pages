@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1967", {data:[{author:{id:1967,work:[],name:"栗山 国四郎",name_kana:"くりやま くにしろう",name_en:"Kuriyama, Kunishiro",born_on:"1882-03-22",died_on:"1956-09-18",wip:[{title:"栗山国四郎手記",subtitle:"近文旧土人地沿革",kana_type:"新字旧仮名",work_id:58879,titleToDisplay:"栗山国四郎手記 近文旧土人地沿革"}]},desc:"",showDesc:false,bornOn:"1882年3月22日",diedOn:"1956年9月18日"}],fetch:{},mutations:[]});

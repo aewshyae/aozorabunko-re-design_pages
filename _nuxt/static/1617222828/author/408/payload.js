@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/408", {data:[{author:{id:408,work:[],name:"石黒 行平",name_kana:"いしぐろ こうへい",name_en:"Ishiguro, Kohei",born_on:"1864",died_on:"1931-05-07"},desc:"",showDesc:false,bornOn:"1864年1月1日",diedOn:"1931年5月7日"}],fetch:[],mutations:[]});

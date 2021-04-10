@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/391", {data:[{author:{id:391,work:[],name:"飯田 忠純",name_kana:"いいだ ただすみ",name_en:"Iida, Tadasumi",born_on:"1898-10-12",died_on:"1936-12-14"},desc:"",showDesc:false,bornOn:"1898年10月12日",diedOn:"1936年12月14日"}],fetch:[],mutations:[]});

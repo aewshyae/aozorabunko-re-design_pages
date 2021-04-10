@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/413", {data:[{author:{id:413,work:[],name:"伊東 月草",name_kana:"いとう げっそう",name_en:"Ito, Gesso",born_on:"1899-02-19",died_on:"1946-04-12"},desc:"",showDesc:false,bornOn:"1899年2月19日",diedOn:"1946年4月12日"}],fetch:{},mutations:[]});

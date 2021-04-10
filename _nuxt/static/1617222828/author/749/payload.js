@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/749", {data:[{author:{id:749,work:[],name:"平戸 大",name_kana:"ひらと だい",name_en:"Hirato, Dai",died_on:"1938"},desc:"",showDesc:false,bornOn:void 0,diedOn:"1938年1月1日"}],fetch:[],mutations:[]});

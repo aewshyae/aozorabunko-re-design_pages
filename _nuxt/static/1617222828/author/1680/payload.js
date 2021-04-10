@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1680", (function(a){return {data:[{author:{id:1680,work:[],name:"今井 半次郎",name_kana:"いまい はんじろう",name_en:"Imai, Hanjiro",born_on:"1884",died_on:"1938",wip:[{title:"山と河",subtitle:a,kana_type:"旧字旧仮名",work_id:54850,titleToDisplay:"山と河 "}]},desc:a,showDesc:false,bornOn:"1884年1月1日",diedOn:"1938年1月1日"}],fetch:[],mutations:[]}}("")));

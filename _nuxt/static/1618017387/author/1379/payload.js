@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1379", {data:[{author:{id:1379,work:[{work_id:49592,title:"一ノ倉沢正面の登攀",kana_type:"新字新仮名",titleToDisplay:"一ノ倉沢正面の登攀 "}],name:"小川 登喜男",name_kana:"おがわ ときお",name_en:"Ogawa, Tokio",born_on:"1908",died_on:"1949"},desc:"",showDesc:false,bornOn:"1908年1月1日",diedOn:"1949年1月1日"}],fetch:{},mutations:[]});

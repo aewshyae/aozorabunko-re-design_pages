@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2008", {data:[{author:{id:2008,work:[{work_id:59172,title:"戦争医学の汚辱にふれて",subtitle:"――生体解剖事件始末記――",kana_type:"新字新仮名",titleToDisplay:"戦争医学の汚辱にふれて ――生体解剖事件始末記――"}],name:"平光 吾一",name_kana:"ひらこう ごいち",name_en:"Hirako, Goichi",born_on:"1887-11",died_on:"1967-05-12"},desc:"",showDesc:false,bornOn:"1887年11月1日",diedOn:"1967年5月12日"}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/796", {data:[{author:{id:796,work:[],name:"三角 錫子",name_kana:"みすみ すずこ",name_en:"Misumi, Suzuko",born_on:"1872",died_on:"1921"},desc:"",showDesc:false,bornOn:"1872年1月1日",diedOn:"1921年1月1日"}],fetch:{},mutations:[]});

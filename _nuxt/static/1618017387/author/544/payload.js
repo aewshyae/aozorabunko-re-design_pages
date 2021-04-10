@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/544", {data:[{author:{id:544,work:[],name:"古泉 千樫",name_kana:"こいずみ ちかし",name_en:"Koizumi, Chikashi",born_on:"1886-09-26",died_on:"1927-08-11"},desc:"",showDesc:false,bornOn:"1886年9月26日",diedOn:"1927年8月11日"}],fetch:{},mutations:[]});

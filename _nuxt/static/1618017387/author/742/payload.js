@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/742", {data:[{author:{id:742,work:[],name:"原田 光子",name_kana:"はらだ みつこ",name_en:"Harada, Mitsuko",born_on:"1909-12-13",died_on:"1946-05-20"},desc:"",showDesc:false,bornOn:"1909年12月13日",diedOn:"1946年5月20日"}],fetch:{},mutations:[]});

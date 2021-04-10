@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/685", {data:[{author:{id:685,work:[],name:"那珂 通世",name_kana:"なか みちよ",name_en:"Naka, Michiyo",born_on:"1851-01-06",died_on:"1908-01-03"},desc:"",showDesc:false,bornOn:"1851年1月6日",diedOn:"1908年1月3日"}],fetch:{},mutations:[]});

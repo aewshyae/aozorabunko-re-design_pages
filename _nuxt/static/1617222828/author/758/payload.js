@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/758", {data:[{author:{id:758,work:[],name:"藤井 乙男",name_kana:"ふじい おとお",name_en:"Fujii, Otoo",born_on:"1868-07-14",died_on:"1945-05-23"},desc:"",showDesc:false,bornOn:"1868年7月14日",diedOn:"1945年5月23日"}],fetch:[],mutations:[]});

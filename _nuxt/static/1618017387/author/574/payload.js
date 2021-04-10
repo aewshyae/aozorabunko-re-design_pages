@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/574", {data:[{author:{id:574,work:[],name:"佐々 醒雪",name_kana:"さっさ せいせつ",name_en:"Sassa, Seisetsu",born_on:"1872-05-06",died_on:"1917-11-25"},desc:"",showDesc:false,bornOn:"1872年5月6日",diedOn:"1917年11月25日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/414", {data:[{author:{id:414,work:[],name:"伊藤 痴遊　初代",name_kana:"いとう ちゆう　しょだい",name_en:"Ito, Chiyu Shodai",born_on:"1867-02-15",died_on:"1938-09-25"},desc:"",showDesc:false,bornOn:"1867年2月15日",diedOn:"1938年9月25日"}],fetch:[],mutations:[]});
