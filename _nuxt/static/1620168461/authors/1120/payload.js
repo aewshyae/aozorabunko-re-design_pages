@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/1120", {data:[{author:{id:1120,work:[{work_id:42767,title:"無人島に生きる十六人",kana_type:"新字新仮名",titleToDisplay:"無人島に生きる十六人 "}],name:"須川 邦彦",canonicalized_initial:"す",name_kana:"すがわ くにひこ",name_en:"Sugawa, Kunihiko",born_on:"1880",died_on:"1949"},desc:"",showDesc:false,bornOn:"1880年1月1日",diedOn:"1949年1月1日"}],fetch:{},mutations:[]});

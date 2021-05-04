@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/1063", {data:[{author:{id:1063,work:[],name:"源信  ",canonicalized_initial:"け",name_kana:"げんしん ",name_en:"Genshin, ",born_on:"942",died_on:"1017-06-10"},desc:"",showDesc:false,bornOn:"942年1月1日",diedOn:"1017年6月10日"}],fetch:{},mutations:[]});

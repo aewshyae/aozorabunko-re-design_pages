@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/703", {data:[{author:{id:703,work:[],name:"中村 秋香",canonicalized_initial:"な",name_kana:"なかむら あきか",name_en:"Nakamura, Akika",born_on:"1841-09-29",died_on:"1910-01-29"},desc:"",showDesc:false,bornOn:"1841年9月29日",diedOn:"1910年1月29日"}],fetch:{},mutations:[]});

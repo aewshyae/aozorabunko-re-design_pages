@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/947", {data:[{author:{id:947,work:[],name:"池崎 忠孝",canonicalized_initial:"い",name_kana:"いけざき ただたか",name_en:"Ikezaki, Tadataka",born_on:"1891-02-09",died_on:"1949-12-10"},desc:"",showDesc:false,bornOn:"1891年2月9日",diedOn:"1949年12月10日"}],fetch:{},mutations:[]});

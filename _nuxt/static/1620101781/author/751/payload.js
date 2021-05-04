@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/751", {data:[{author:{id:751,work:[],name:"広江 八重桜",canonicalized_initial:"ひ",name_kana:"ひろえ やえざくら",name_en:"Hiroe, Yaezakura",born_on:"1879-03-11",died_on:"1945-10-08"},desc:"",showDesc:false,bornOn:"1879年3月11日",diedOn:"1945年10月8日"}],fetch:{},mutations:[]});

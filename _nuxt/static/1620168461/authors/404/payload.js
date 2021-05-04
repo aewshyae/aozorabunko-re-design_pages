@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/404", {data:[{author:{id:404,work:[],name:"石川 英雄",canonicalized_initial:"い",name_kana:"いしかわ ひでお",name_en:"Ishikawa, Hideo",died_on:"1945"},desc:"",showDesc:false,bornOn:void 0,diedOn:"1945年1月1日"}],fetch:{},mutations:[]});

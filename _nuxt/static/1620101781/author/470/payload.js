@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/470", {data:[{author:{id:470,work:[],name:"岡野 知十",canonicalized_initial:"お",name_kana:"おかの ちじゅう",name_en:"Okano, Chiju",born_on:"1860-02-19",died_on:"1932-08-13"},desc:"",showDesc:false,bornOn:"1860年2月19日",diedOn:"1932年8月13日"}],fetch:{},mutations:[]});

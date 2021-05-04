@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/537", {data:[{author:{id:537,work:[{work_id:47508,title:"教育心理に関する現下の問題二三",kana_type:"旧字旧仮名",titleToDisplay:"教育心理に関する現下の問題二三 "}],name:"久保 良英",canonicalized_initial:"く",name_kana:"くぼ よしひで",name_en:"Kubo, Yoshihide",born_on:"1883-04-22",died_on:"1942-11-11"},desc:"",showDesc:false,bornOn:"1883年4月22日",diedOn:"1942年11月11日"}],fetch:{},mutations:[]});

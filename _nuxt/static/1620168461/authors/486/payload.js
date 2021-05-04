@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/486", {data:[{author:{id:486,work:[],name:"小野 政方",canonicalized_initial:"お",name_kana:"おの まさかた",name_en:"Ono, Masakata",born_on:"1885-08-03",died_on:"1945-01-19"},desc:"",showDesc:false,bornOn:"1885年8月3日",diedOn:"1945年1月19日"}],fetch:{},mutations:[]});

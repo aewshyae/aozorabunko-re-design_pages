@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/891", {data:[{author:{id:891,work:[{work_id:3619,title:"希臘及び羅馬と香料",kana_type:"新字旧仮名",titleToDisplay:"希臘及び羅馬と香料 "}],name:"加福 均三",canonicalized_initial:"か",name_kana:"かふく きんぞう",name_en:"Kafuku, Kinzo",born_on:"1885",died_on:"1948"},desc:"",showDesc:false,bornOn:"1885年1月1日",diedOn:"1948年1月1日"}],fetch:{},mutations:[]});

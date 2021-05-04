@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/862", {data:[{author:{id:862,work:[],name:"渡辺 黙禅",canonicalized_initial:"わ",name_kana:"わたなべ もくぜん",name_en:"Watanabe, Mokuzen",born_on:"1870-06-30",died_on:"1945-11-18"},desc:"",showDesc:false,bornOn:"1870年6月30日",diedOn:"1945年11月18日"}],fetch:{},mutations:[]});

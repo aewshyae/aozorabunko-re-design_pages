@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/407", {data:[{author:{id:407,work:[],name:"石榑 千亦",canonicalized_initial:"い",name_kana:"いしくれ ちまた",name_en:"Ishikure, Chimata",born_on:"1869-08-26",died_on:"1942-08-22"},desc:"",showDesc:false,bornOn:"1869年8月26日",diedOn:"1942年8月22日"}],fetch:{},mutations:[]});

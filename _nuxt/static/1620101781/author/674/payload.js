@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/674", {data:[{author:{id:674,work:[],name:"徳山 たまき",canonicalized_initial:"と",name_kana:"とくやま たまき",name_en:"Tokuyama, Tamaki",born_on:"1903-07-27",died_on:"1942-01-28"},desc:"",showDesc:false,bornOn:"1903年7月27日",diedOn:"1942年1月28日"}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/422", {data:[{author:{id:422,work:[],name:"井上 通泰",canonicalized_initial:"い",name_kana:"いのうえ みちやす",name_en:"Inoue, Michiyasu",born_on:"1866-12-21",died_on:"1941-08-15"},desc:"",showDesc:false,bornOn:"1866年12月21日",diedOn:"1941年8月15日"}],fetch:{},mutations:[]});

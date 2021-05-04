@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/480", {data:[{author:{id:480,work:[],name:"織田 正信",canonicalized_initial:"お",name_kana:"おだ まさのぶ",name_en:"Oda, Masanobu",born_on:"1903-12-16",died_on:"1945-09-11"},desc:"",showDesc:false,bornOn:"1903年12月16日",diedOn:"1945年9月11日"}],fetch:{},mutations:[]});

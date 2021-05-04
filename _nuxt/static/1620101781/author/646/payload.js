@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/646", {data:[{author:{id:646,work:[],name:"立田 謙一",canonicalized_initial:"た",name_kana:"たつた けんいち",name_en:"Tatsuta, Ken'ichi",born_on:"1891-03-10",died_on:"1942-08-22"},desc:"",showDesc:false,bornOn:"1891年3月10日",diedOn:"1942年8月22日"}],fetch:{},mutations:[]});

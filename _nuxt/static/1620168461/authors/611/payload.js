@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/611", {data:[{author:{id:611,work:[],name:"須藤 南翠",canonicalized_initial:"す",name_kana:"すどう なんすい",name_en:"Sudo, Nansui",born_on:"1857-11-03",died_on:"1920-02-04"},desc:"",showDesc:false,bornOn:"1857年11月3日",diedOn:"1920年2月4日"}],fetch:{},mutations:[]});

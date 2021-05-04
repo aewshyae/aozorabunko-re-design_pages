@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1201", {data:[{author:{id:1201,work:[{work_id:45458,title:"扉は語らず",subtitle:"（又は二直線の延長に就て）",kana_type:"新字新仮名",titleToDisplay:"扉は語らず （又は二直線の延長に就て）"}],name:"小舟 勝二",canonicalized_initial:"こ",name_kana:"こぶね かつじ",name_en:"Kobune, Katsuji",died_on:"1931"},desc:"",showDesc:false,bornOn:void 0,diedOn:"1931年1月1日"}],fetch:{},mutations:[]});

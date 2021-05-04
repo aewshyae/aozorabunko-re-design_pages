@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/782", (function(a){return {data:[{author:{id:782,work:[],name:"松原 二十三階堂",canonicalized_initial:"ま",name_kana:"まつばら にじゅうさんかいどう",name_en:"Matsubara, Nijusankaido",born_on:"1866-08",died_on:"1935-02-26",desc:a},desc:a,showDesc:true,bornOn:"1866年8月1日",diedOn:"1935年2月26日"}],fetch:{},mutations:[]}}("\u003Cbr\u003E")));

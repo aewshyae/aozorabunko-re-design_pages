@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/706", {data:[{author:{id:706,work:[],name:"中村 武羅夫",canonicalized_initial:"な",name_kana:"なかむら むらお",name_en:"Nakamura, Murao",born_on:"1886-10-04",died_on:"1949-05-13"},desc:"",showDesc:false,bornOn:"1886年10月4日",diedOn:"1949年5月13日"}],fetch:{},mutations:[]});

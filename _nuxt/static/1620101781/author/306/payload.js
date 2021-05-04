@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/306", (function(a){return {data:[{author:{id:306,work:[],name:"松田 司郎",canonicalized_initial:"ま",name_kana:"まつだ しろう",name_en:"Matsuda, Shiro",copyright:true},desc:"",showDesc:false,bornOn:a,diedOn:a}],fetch:{},mutations:[]}}(void 0)));

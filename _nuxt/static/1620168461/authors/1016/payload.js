@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/1016", {data:[{author:{id:1016,work:[],name:"松瀬 青々",canonicalized_initial:"ま",name_kana:"まつせ せいせい",name_en:"Matsuse, Seisei",born_on:"1869-04-04",died_on:"1937-01-09"},desc:"",showDesc:false,bornOn:"1869年4月4日",diedOn:"1937年1月9日"}],fetch:{},mutations:[]});

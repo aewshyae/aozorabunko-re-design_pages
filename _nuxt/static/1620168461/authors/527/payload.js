@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/527", {data:[{author:{id:527,work:[],name:"木村 曙",canonicalized_initial:"き",name_kana:"きむら あけぼの",name_en:"Kimura, Akebono",born_on:"1872-04-10",died_on:"1890-10-19"},desc:"",showDesc:false,bornOn:"1872年4月10日",diedOn:"1890年10月19日"}],fetch:{},mutations:[]});

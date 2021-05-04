@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/583", {data:[{author:{id:583,work:[],name:"沢田 撫松",canonicalized_initial:"さ",name_kana:"さわだ ぶしょう",name_en:"Sawada, Busho",born_on:"1871-05-01",died_on:"1927-04-13"},desc:"",showDesc:false,bornOn:"1871年5月1日",diedOn:"1927年4月13日"}],fetch:{},mutations:[]});

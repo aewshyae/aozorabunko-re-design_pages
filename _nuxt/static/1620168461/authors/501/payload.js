@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/501", {data:[{author:{id:501,work:[],name:"金子 元臣",canonicalized_initial:"か",name_kana:"かねこ もとおみ",name_en:"Kaneko, Motoomi",born_on:"1868-12-01",died_on:"1944-02-28"},desc:"",showDesc:false,bornOn:"1868年12月1日",diedOn:"1944年2月28日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/545", {data:[{author:{id:545,work:[],name:"小泉 長三",canonicalized_initial:"こ",name_kana:"こいずみ ちょうぞう",name_en:"Koizumi, Chozo",born_on:"1878-02-06",died_on:"1941-02-22"},desc:"",showDesc:false,bornOn:"1878年2月6日",diedOn:"1941年2月22日"}],fetch:{},mutations:[]});

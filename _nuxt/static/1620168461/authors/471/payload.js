@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/471", {data:[{author:{id:471,work:[],name:"岡村 金太郎",canonicalized_initial:"お",name_kana:"おかむら きんたろう",name_en:"Okamura, Kintaro",born_on:"1867-04-10",died_on:"1935-08-21"},desc:"",showDesc:false,bornOn:"1867年4月10日",diedOn:"1935年8月21日"}],fetch:{},mutations:[]});

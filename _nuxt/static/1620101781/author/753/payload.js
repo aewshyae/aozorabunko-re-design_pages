@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/753", {data:[{author:{id:753,work:[],name:"深田 康算",canonicalized_initial:"ふ",name_kana:"ふかだ やすかず",name_en:"Fukada, Yasukazu",born_on:"1878-10-19",died_on:"1928-11-12"},desc:"",showDesc:false,bornOn:"1878年10月19日",diedOn:"1928年11月12日"}],fetch:{},mutations:[]});

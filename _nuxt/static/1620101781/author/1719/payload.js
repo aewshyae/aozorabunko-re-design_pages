@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1719", {data:[{author:{id:1719,work:[{work_id:55258,title:"普羅句集",kana_type:"新字旧仮名",titleToDisplay:"普羅句集 "}],name:"前田 普羅",canonicalized_initial:"ま",name_kana:"まえだ ふら",name_en:"Maeda, Fura",born_on:"1884-04-18",died_on:"1954-08-08"},desc:"",showDesc:false,bornOn:"1884年4月18日",diedOn:"1954年8月8日"}],fetch:{},mutations:[]});

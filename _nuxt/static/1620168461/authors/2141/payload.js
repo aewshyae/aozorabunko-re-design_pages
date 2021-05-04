@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/2141", {data:[{author:{id:2141,work:[{work_id:60349,title:"「トンネル」に就いて",kana_type:"旧字旧仮名",titleToDisplay:"「トンネル」に就いて "}],name:"成瀬 無極",canonicalized_initial:"な",name_kana:"なるせ むきょく",name_en:"Naruse, Mukyoku",born_on:"1885-4-26",died_on:"1958-1-4"},desc:"",showDesc:false,bornOn:"1885年4月26日",diedOn:"1958年1月4日"}],fetch:{},mutations:[]});

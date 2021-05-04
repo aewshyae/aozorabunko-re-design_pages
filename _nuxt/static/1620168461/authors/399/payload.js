@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/399", {data:[{author:{id:399,work:[],name:"池辺 義象",canonicalized_initial:"い",name_kana:"いけべ よしかた",name_en:"Ikebe, Yoshikata",born_on:"1861-10-03",died_on:"1923-03-06"},desc:"",showDesc:false,bornOn:"1861年10月3日",diedOn:"1923年3月6日"}],fetch:{},mutations:[]});

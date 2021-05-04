@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/949", {data:[{author:{id:949,work:[],name:"今井 登志喜",canonicalized_initial:"い",name_kana:"いまい としき",name_en:"Imai, Toshiki",born_on:"1886-06-08",died_on:"1950-03-21"},desc:"",showDesc:false,bornOn:"1886年6月8日",diedOn:"1950年3月21日"}],fetch:{},mutations:[]});

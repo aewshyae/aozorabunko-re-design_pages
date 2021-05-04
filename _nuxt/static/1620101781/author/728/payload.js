@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/728", {data:[{author:{id:728,work:[],name:"長谷川 天渓",canonicalized_initial:"は",name_kana:"はせがわ てんけい",name_en:"Hasegawa, Tenkei",born_on:"1876-11-26",died_on:"1940-08-30"},desc:"",showDesc:false,bornOn:"1876年11月26日",diedOn:"1940年8月30日"}],fetch:{},mutations:[]});

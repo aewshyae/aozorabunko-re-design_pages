@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/771", {data:[{author:{id:771,work:[],name:"牧野 喬",canonicalized_initial:"ま",name_kana:"まきの たかし",name_en:"Makino, Takashi",born_on:"1903-05-29",died_on:"1945-08-10"},desc:"",showDesc:false,bornOn:"1903年5月29日",diedOn:"1945年8月10日"}],fetch:{},mutations:[]});

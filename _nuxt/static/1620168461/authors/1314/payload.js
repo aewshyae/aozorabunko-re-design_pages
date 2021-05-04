@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/1314", {data:[{author:{id:1314,work:[{work_id:47604,title:"夢の如く出現した彼",kana_type:"新字新仮名",titleToDisplay:"夢の如く出現した彼 "}],name:"青柳 喜兵衛",canonicalized_initial:"あ",name_kana:"あおやぎ きへい",name_en:"Aoyagi, Kihei",born_on:"1904-01-01",died_on:"1938-08-28"},desc:"",showDesc:false,bornOn:"1904年1月1日",diedOn:"1938年8月28日"}],fetch:{},mutations:[]});

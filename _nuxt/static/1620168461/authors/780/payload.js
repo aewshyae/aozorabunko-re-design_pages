@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/780", {data:[{author:{id:780,work:[],name:"松岡 静雄",canonicalized_initial:"ま",name_kana:"まつおか しずお",name_en:"Matsuoka, Shizuo",born_on:"1877",died_on:"1936-05-23"},desc:"",showDesc:false,bornOn:"1877年1月1日",diedOn:"1936年5月23日"}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/767", {data:[{author:{id:767,work:[],name:"本多 謙三",canonicalized_initial:"ほ",name_kana:"ほんだ けんぞう",name_en:"Honda, Kenzo",born_on:"1880-11-30",died_on:"1938-03-07"},desc:"",showDesc:false,bornOn:"1880年11月30日",diedOn:"1938年3月7日"}],fetch:{},mutations:[]});

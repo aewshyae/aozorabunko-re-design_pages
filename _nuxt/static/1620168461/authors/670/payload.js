@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/670", {data:[{author:{id:670,work:[],name:"常盤 大定",canonicalized_initial:"と",name_kana:"ときわ だいじょう",name_en:"Tokiwa, Daijo",born_on:"1870",died_on:"1945"},desc:"",showDesc:false,bornOn:"1870年1月1日",diedOn:"1945年1月1日"}],fetch:{},mutations:[]});

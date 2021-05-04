@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/415", {data:[{author:{id:415,work:[],name:"伊東 貞助",canonicalized_initial:"い",name_kana:"いとう ていすけ",name_en:"Ito, Teisuke",born_on:"1901-09-30",died_on:"1946-03-07"},desc:"",showDesc:false,bornOn:"1901年9月30日",diedOn:"1946年3月7日"}],fetch:{},mutations:[]});

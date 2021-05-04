@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/454", (function(a){return {data:[{author:{id:454,work:[],name:"太田 玉茗",canonicalized_initial:"お",name_kana:"おおた ぎょくめい",name_en:"Ota, Gyokumei",born_on:"1871-05-06",died_on:"1927-04-06",desc:a},desc:a,showDesc:true,bornOn:"1871年5月6日",diedOn:"1927年4月6日"}],fetch:{},mutations:[]}}("※多くの参考図書が1871年～1927年としているが、『著作権台帳 第24版』には1871年～1929年とある。")));

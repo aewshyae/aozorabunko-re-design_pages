@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/573", {data:[{author:{id:573,work:[],name:"笹川 臨風",canonicalized_initial:"さ",name_kana:"ささかわ りんぷう",name_en:"Sasakawa, Rinpu",born_on:"1870-09-02",died_on:"1949-04-13"},desc:"",showDesc:false,bornOn:"1870年9月2日",diedOn:"1949年4月13日"}],fetch:{},mutations:[]});

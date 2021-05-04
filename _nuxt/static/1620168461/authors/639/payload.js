@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/authors/639", {data:[{author:{id:639,work:[],name:"竹内 俊子",canonicalized_initial:"た",name_kana:"たけうち としこ",name_en:"Takeuchi, Toshiko",born_on:"1905-09-10",died_on:"1945-04-07"},desc:"",showDesc:false,bornOn:"1905年9月10日",diedOn:"1945年4月7日"}],fetch:{},mutations:[]});

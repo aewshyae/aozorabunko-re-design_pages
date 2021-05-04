@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/727", {data:[{author:{id:727,work:[],name:"長谷川 千秋",canonicalized_initial:"は",name_kana:"はせがわ せんしゅう",name_en:"Hasegawa, Senshu",born_on:"1908-08-26",died_on:"1945-06-20"},desc:"",showDesc:false,bornOn:"1908年8月26日",diedOn:"1945年6月20日"}],fetch:{},mutations:[]});
