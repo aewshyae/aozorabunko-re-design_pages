@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/590", {data:[{author:{id:590,work:[],name:"重野 安繹",canonicalized_initial:"し",name_kana:"しげの やすつぐ",name_en:"Shigeno, Yasutsugu",born_on:"1827-10-06",died_on:"1910-12-06"},desc:"",showDesc:false,bornOn:"1827年10月6日",diedOn:"1910年12月6日"}],fetch:{},mutations:[]});

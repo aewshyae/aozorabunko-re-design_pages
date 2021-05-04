@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/405", {data:[{author:{id:405,work:[],name:"石川 林四郎",name_kana:"いしかわ りんしろう",name_en:"Ishikawa, Rinshiro",born_on:"1879-12-19",died_on:"1939-08-31"},desc:"",showDesc:false,bornOn:"1879年12月19日",diedOn:"1939年8月31日"}],fetch:{},mutations:[]});

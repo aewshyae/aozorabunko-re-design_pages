@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/468", {data:[{author:{id:468,work:[],name:"岡田 実麿",canonicalized_initial:"お",name_kana:"おかだ じつまろ",name_en:"Okada, Jitsumaro",born_on:"1878-02-01",died_on:"1943-08-18"},desc:"",showDesc:false,bornOn:"1878年2月1日",diedOn:"1943年8月18日"}],fetch:{},mutations:[]});

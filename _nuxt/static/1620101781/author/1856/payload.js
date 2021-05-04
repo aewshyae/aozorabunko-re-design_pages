@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1856", (function(a){return {data:[{author:{id:1856,work:[],name:"酒井 潔",canonicalized_initial:"さ",name_kana:"さかい きよし",name_en:"Sakai, Kiyoshi",born_on:"1985",died_on:"1952",wip:[{title:"エロエロ草紙",subtitle:a,kana_type:"旧字旧仮名",work_id:57364,titleToDisplay:"エロエロ草紙 "}]},desc:a,showDesc:false,bornOn:"1985年1月1日",diedOn:"1952年1月1日"}],fetch:{},mutations:[]}}("")));

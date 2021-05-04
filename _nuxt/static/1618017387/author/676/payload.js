@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/676", {data:[{author:{id:676,work:[],name:"戸鞠 雅彦",name_kana:"とまり まさひこ",name_en:"Tomari, Masahiko",born_on:"1908-10-23",died_on:"1946-09-28"},desc:"",showDesc:false,bornOn:"1908年10月23日",diedOn:"1946年9月28日"}],fetch:{},mutations:[]});

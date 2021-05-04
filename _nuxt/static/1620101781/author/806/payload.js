@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/806", {data:[{author:{id:806,work:[],name:"宮崎 三昧",canonicalized_initial:"み",name_kana:"みやざき さんまい",name_en:"Miyazaki, Sanmai",born_on:"1859-08-01",died_on:"1919-03-22"},desc:"",showDesc:false,bornOn:"1859年8月1日",diedOn:"1919年3月22日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/715", {data:[{author:{id:715,work:[],name:"西川 勉",name_kana:"にしかわ つとむ",name_en:"Nishikawa, Tsutomu",born_on:"1894-06-30",died_on:"1934-08-01"},desc:"",showDesc:false,bornOn:"1894年6月30日",diedOn:"1934年8月1日"}],fetch:{},mutations:[]});

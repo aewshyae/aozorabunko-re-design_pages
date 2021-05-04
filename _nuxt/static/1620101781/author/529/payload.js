@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/529", {data:[{author:{id:529,work:[],name:"木村 泰賢",canonicalized_initial:"き",name_kana:"きむら たいけん",name_en:"Kimura, Taiken",born_on:"1881-08-11",died_on:"1931-05-16"},desc:"",showDesc:false,bornOn:"1881年8月11日",diedOn:"1931年5月16日"}],fetch:{},mutations:[]});

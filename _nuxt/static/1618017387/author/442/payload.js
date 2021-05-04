@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/442", (function(a){return {data:[{author:{id:442,work:[],name:"宇野 円空",name_kana:"うの えんくう",name_en:"Uno, Enku",born_on:"1885-11-27",died_on:"1949-01-01",wip:[{title:"上代人の民族信仰",subtitle:a,kana_type:"旧字旧仮名",work_id:54849,titleToDisplay:"上代人の民族信仰 "}]},desc:a,showDesc:false,bornOn:"1885年11月27日",diedOn:"1949年1月1日"}],fetch:{},mutations:[]}}("")));

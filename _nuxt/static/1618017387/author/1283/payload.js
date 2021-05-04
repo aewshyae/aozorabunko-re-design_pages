@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1283", (function(a,b){return {data:[{author:{id:1283,work:[],name:"呉 承恩",name_kana:"ご しょうおん",name_en:"Go, Shoon",wip:[{title:"絵本西遊記",subtitle:a,kana_type:"旧字旧仮名",work_id:47062,others:[{person_id:1284,person_name:"笹川 種郎",role:"校訂者"}],titleToDisplay:"絵本西遊記 "}]},desc:a,showDesc:false,bornOn:b,diedOn:b}],fetch:{},mutations:[]}}("",void 0)));

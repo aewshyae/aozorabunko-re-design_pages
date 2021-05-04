@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/683", {data:[{author:{id:683,work:[],name:"鳥山 啓",name_kana:"とりやま ひらく",name_en:"Toriyama, Hiraku",born_on:"1837",died_on:"1914"},desc:"",showDesc:false,bornOn:"1837年1月1日",diedOn:"1914年1月1日"}],fetch:{},mutations:[]});

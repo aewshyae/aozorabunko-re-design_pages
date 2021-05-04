@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/682", {data:[{author:{id:682,work:[],name:"鳥井 素川",name_kana:"とりい そせん",name_en:"Torii, Sosen",born_on:"1867-07-04",died_on:"1928-03-10"},desc:"",showDesc:false,bornOn:"1867年7月4日",diedOn:"1928年3月10日"}],fetch:{},mutations:[]});

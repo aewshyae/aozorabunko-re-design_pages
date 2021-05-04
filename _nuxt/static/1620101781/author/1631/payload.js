@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1631", {data:[{author:{id:1631,work:[{work_id:54077,title:"嵐の中で",subtitle:"――伊井千歳に贈る――",kana_type:"新字新仮名",titleToDisplay:"嵐の中で ――伊井千歳に贈る――"}],name:"大石 喜幸",canonicalized_initial:"お",name_kana:"おおいし よしゆき",name_en:"Oishi, Yoshiyuki",born_on:"1910",died_on:"1941"},desc:"",showDesc:false,bornOn:"1910年1月1日",diedOn:"1941年1月1日"}],fetch:{},mutations:[]});

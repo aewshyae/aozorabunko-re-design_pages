@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2169", (function(a){return {data:[{author:{id:2169,work:[],name:"北村 兼子",name_kana:"きたむら かねこ",born_on:"1903-11-26",died_on:"1931-7-26",wip:[{title:"ねこ",subtitle:a,kana_type:"旧字旧仮名",work_id:60668,titleToDisplay:"ねこ "}]},desc:a,showDesc:false,bornOn:"1903年11月26日",diedOn:"1931年7月26日"}],fetch:{},mutations:[]}}("")));

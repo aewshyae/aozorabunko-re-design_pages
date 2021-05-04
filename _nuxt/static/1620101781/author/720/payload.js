@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/720", {data:[{author:{id:720,work:[],name:"納所 弁次郎",canonicalized_initial:"の",name_kana:"のうしょ べんじろう",name_en:"Nosho, Benjiro",born_on:"1865-09-24",died_on:"1936-05-11"},desc:"",showDesc:false,bornOn:"1865年9月24日",diedOn:"1936年5月11日"}],fetch:{},mutations:[]});

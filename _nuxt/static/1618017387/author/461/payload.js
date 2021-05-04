@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/461", {data:[{author:{id:461,work:[],name:"多 久寅",name_kana:"おおの ひさとら",name_en:"Ono, Hisatora",born_on:"1884-10-10",died_on:"1931-03-25"},desc:"",showDesc:false,bornOn:"1884年10月10日",diedOn:"1931年3月25日"}],fetch:{},mutations:[]});

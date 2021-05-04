@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/774", {data:[{author:{id:774,work:[],name:"真下 飛泉",name_kana:"ました ひせん",name_en:"Mashita, Hisen",born_on:"1878-10-10",died_on:"1912-10-25"},desc:"",showDesc:false,bornOn:"1878年10月10日",diedOn:"1912年10月25日"}],fetch:{},mutations:[]});

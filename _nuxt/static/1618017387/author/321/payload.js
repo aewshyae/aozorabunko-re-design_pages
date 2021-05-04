@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/321", {data:[{author:{id:321,work:[{work_id:2169,title:"礼厳法師歌集",kana_type:"新字旧仮名",others:[{person_id:320,person_name:"与謝野 寛",role:"編者"}],titleToDisplay:"礼厳法師歌集 "}],name:"与謝野 礼厳",name_kana:"よさの れいごん",name_en:"Yosano, Reigon",born_on:"1823-10-16",died_on:"1898-08-17"},desc:"",showDesc:false,bornOn:"1823年10月16日",diedOn:"1898年8月17日"}],fetch:{},mutations:[]});

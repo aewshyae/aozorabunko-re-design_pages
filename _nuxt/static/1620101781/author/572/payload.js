@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/572", {data:[{author:{id:572,work:[],name:"桜田 治助　初代",canonicalized_initial:"さ",name_kana:"さくらだ じすけ　しょだい",name_en:"Sakurada, Jisuke Shodai",born_on:"1734",died_on:"1806"},desc:"",showDesc:false,bornOn:"1734年1月1日",diedOn:"1806年1月1日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/663", {data:[{author:{id:663,work:[],name:"角田 浩々歌客",name_kana:"かくだ こうこうかきゃく",name_en:"Kakuda, Kokokakyaku",born_on:"1869",died_on:"1916"},desc:"",showDesc:false,bornOn:"1869年1月1日",diedOn:"1916年1月1日"}],fetch:{},mutations:[]});

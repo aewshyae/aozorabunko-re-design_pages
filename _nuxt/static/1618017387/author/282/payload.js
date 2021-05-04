@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/282", {data:[{author:{id:282,work:[{work_id:1714,title:"あめんちあ",kana_type:"新字新仮名",titleToDisplay:"あめんちあ "}],name:"富ノ沢 麟太郎",name_kana:"とみのさわ りんたろう",name_en:"Tominosawa, Rintaro",born_on:"1899-03-25",died_on:"1925-02-24"},desc:"",showDesc:false,bornOn:"1899年3月25日",diedOn:"1925年2月24日"}],fetch:{},mutations:[]});

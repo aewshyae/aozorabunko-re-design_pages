@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/449", {data:[{author:{id:449,work:[],name:"邑楽 慎一",name_kana:"おうら しんいち",name_en:"Ora, Shin'ichi ",born_on:"1908-04-30",died_on:"1945-01-04"},desc:"",showDesc:false,bornOn:"1908年4月30日",diedOn:"1945年1月4日"}],fetch:{},mutations:[]});

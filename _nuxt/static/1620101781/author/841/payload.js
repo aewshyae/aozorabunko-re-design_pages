@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/841", {data:[{author:{id:841,work:[],name:"山田 源一郎",canonicalized_initial:"や",name_kana:"やまだ げんいちろう",name_en:"Yamada, Gen'ichiro",born_on:"1869-10-17",died_on:"1927-05-23"},desc:"",showDesc:false,bornOn:"1869年10月17日",diedOn:"1927年5月23日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2032", (function(a){return {data:[{author:{id:2032,work:[],name:"沼井 鉄太郎",name_kana:"ぬまい てつたろう",name_en:"Numai, Tetsutaro",born_on:"1898",died_on:"1959",wip:[{title:"黒岩山を探る",subtitle:a,kana_type:"旧字旧仮名",work_id:59403,titleToDisplay:"黒岩山を探る "}]},desc:a,showDesc:false,bornOn:"1898年1月1日",diedOn:"1959年1月1日"}],fetch:{},mutations:[]}}("")));

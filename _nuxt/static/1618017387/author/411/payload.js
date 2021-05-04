@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/411", {data:[{author:{id:411,work:[],name:"石原 和三郎",name_kana:"いしはら わさぶろう",name_en:"Ishihara, Wasaburo",born_on:"1865-10-12",died_on:"1922-01-04"},desc:"",showDesc:false,bornOn:"1865年10月12日",diedOn:"1922年1月4日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2037", (function(a,b){return {data:[{author:{id:2037,work:[],name:"南極探検後援会 ",name_kana:"なんきょくたんけんこうえんかい ",wip:[{title:"南極記",subtitle:a,kana_type:"旧字旧仮名",work_id:59410,titleToDisplay:"南極記 "}]},desc:a,showDesc:false,bornOn:b,diedOn:b}],fetch:{},mutations:[]}}("",void 0)));

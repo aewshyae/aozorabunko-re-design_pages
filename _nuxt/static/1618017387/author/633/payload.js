@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/633", (function(a){return {data:[{author:{id:633,work:[],name:"滝 廉太郎",name_kana:"たき れんたろう",name_en:"Taki, Rentaro",born_on:"1879-08-24",died_on:"1903-06-29",wip:[{title:"「四季」緒言",subtitle:a,kana_type:"新字旧仮名",work_id:59741,titleToDisplay:"「四季」緒言 "}]},desc:a,showDesc:false,bornOn:"1879年8月24日",diedOn:"1903年6月29日"}],fetch:{},mutations:[]}}("")));

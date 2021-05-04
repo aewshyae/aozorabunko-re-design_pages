@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/266", (function(a){return {data:[{author:{id:266,work:[],name:"末松 謙澄",name_kana:"すえまつ けんちょう",name_en:"Suematsu, Kencho",born_on:"1855-09-30",died_on:"1920-10-05",wip:[{title:"演劇改良演説",subtitle:a,kana_type:"新字新仮名",work_id:1520,titleToDisplay:"演劇改良演説 "}]},desc:a,showDesc:false,bornOn:"1855年9月30日",diedOn:"1920年10月5日"}],fetch:{},mutations:[]}}("")));

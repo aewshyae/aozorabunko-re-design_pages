@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/540", {data:[{author:{id:540,work:[],name:"廚川 白村",name_kana:"くりやがわ はくそん",name_en:"Kuriyagawa, Hakuson",born_on:"1880-11-19",died_on:"1923-09-02"},desc:"",showDesc:false,bornOn:"1880年11月19日",diedOn:"1923年9月2日"}],fetch:{},mutations:[]});

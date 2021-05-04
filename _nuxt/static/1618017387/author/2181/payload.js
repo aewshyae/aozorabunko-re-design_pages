@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/2181", (function(a){return {data:[{author:{id:2181,work:[],name:"村田 孝太郎",name_kana:"むらた こうたろう",name_en:"Murata, Koutarou",born_on:"1904-02-04",died_on:"1946-03-16",wip:[{title:"鶏",subtitle:a,kana_type:"新字新仮名",work_id:60834,titleToDisplay:"鶏 "}]},desc:a,showDesc:false,bornOn:"1904年2月4日",diedOn:"1946年3月16日"}],fetch:{},mutations:[]}}("")));

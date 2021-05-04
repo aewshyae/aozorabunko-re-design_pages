@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/269", {data:[{author:{id:269,work:[{work_id:1543,title:"般若心経講義",kana_type:"新字新仮名",titleToDisplay:"般若心経講義 "}],name:"高神 覚昇",canonicalized_initial:"た",name_kana:"たかがみ かくしょう",name_en:"Takagami, Kakusho",born_on:"1894",died_on:"1948"},desc:"",showDesc:false,bornOn:"1894年1月1日",diedOn:"1948年1月1日"}],fetch:{},mutations:[]});

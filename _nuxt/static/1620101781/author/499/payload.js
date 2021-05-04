@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/499", {data:[{author:{id:499,work:[],name:"金子 筑水",canonicalized_initial:"か",name_kana:"かねこ ちくすい",name_en:"Kaneko, Chikusui",born_on:"1870-01-10",died_on:"1937-06-01"},desc:"",showDesc:false,bornOn:"1870年1月10日",diedOn:"1937年6月1日"}],fetch:{},mutations:[]});

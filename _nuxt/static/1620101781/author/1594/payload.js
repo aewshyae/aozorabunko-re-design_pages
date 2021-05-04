@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1594", {data:[{author:{id:1594,work:[],name:"島内 登志衛",canonicalized_initial:"し",name_kana:"しまうち としえ",name_en:"Shimauchi, Toshie",died_on:"1922-10-12"},desc:"",showDesc:false,bornOn:void 0,diedOn:"1922年10月12日"}],fetch:{},mutations:[]});

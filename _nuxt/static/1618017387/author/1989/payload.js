@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1989", {data:[{author:{id:1989,work:[{work_id:59005,title:"穂高岳屏風岩にて",kana_type:"新字新仮名",titleToDisplay:"穂高岳屏風岩にて "}],name:"早川 鮎子",name_kana:"はやかわ あゆこ",name_en:"Hayakawa, Ayuko",born_on:"1936",died_on:"1967"},desc:"",showDesc:false,bornOn:"1936年1月1日",diedOn:"1967年1月1日"}],fetch:{},mutations:[]});

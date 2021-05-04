@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/440", {data:[{author:{id:440,work:[],name:"内海 弘蔵",canonicalized_initial:"う",name_kana:"うつみ こうぞう",name_en:"Utsumi, Kozo",born_on:"1872-03-27",died_on:"1935-12-05"},desc:"",showDesc:false,bornOn:"1872年3月27日",diedOn:"1935年12月5日"}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/737", {data:[{author:{id:737,work:[],name:"林 大作",canonicalized_initial:"は",name_kana:"はやし だいさく",name_en:"Hayashi, Daisaku",born_on:"1905-01-02",died_on:"1935-11-26"},desc:"",showDesc:false,bornOn:"1905年1月2日",diedOn:"1935年11月26日"}],fetch:{},mutations:[]});

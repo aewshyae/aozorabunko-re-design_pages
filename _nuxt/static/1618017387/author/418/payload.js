@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/418", {data:[{author:{id:418,work:[],name:"井上 善次郎",name_kana:"いのうえ ぜんじろう",name_en:"Inoue, Zenjiro",born_on:"1862-08-12",died_on:"1941-04-05"},desc:"",showDesc:false,bornOn:"1862年8月12日",diedOn:"1941年4月5日"}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/460", {data:[{author:{id:460,work:[],name:"多 忠亮",canonicalized_initial:"お",name_kana:"おおの ただすけ",name_en:"Ono, Tadasuke",born_on:"1895-05-03",died_on:"1929-12-03"},desc:"",showDesc:false,bornOn:"1895年5月3日",diedOn:"1929年12月3日"}],fetch:{},mutations:[]});

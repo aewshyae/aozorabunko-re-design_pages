@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/557", {data:[{author:{id:557,work:[],name:"小林 愛雄",canonicalized_initial:"こ",name_kana:"こばやし よしお",name_en:"Kobayashi, Yoshio",born_on:"1881-11-30",died_on:"1946-10-01"},desc:"",showDesc:false,bornOn:"1881年11月30日",diedOn:"1946年10月1日"}],fetch:{},mutations:[]});

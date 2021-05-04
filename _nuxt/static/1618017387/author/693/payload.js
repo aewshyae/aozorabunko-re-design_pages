@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/693", {data:[{author:{id:693,work:[],name:"中田 章",name_kana:"なかだ あきら",name_en:"Nakada, Akira",born_on:"1886-07-08",died_on:"1931-11-27"},desc:"",showDesc:false,bornOn:"1886年7月8日",diedOn:"1931年11月27日"}],fetch:{},mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/429", (function(a){return {data:[{author:{id:429,work:[],name:"今村 外園",name_kana:"いまむら がいえん",name_en:"Imamura, Gaien",died_on:"1931-01-01",desc:a},desc:a,showDesc:true,bornOn:void 0,diedOn:"1931年1月1日"}],fetch:{},mutations:[]}}("※没年の詳しい月日はわからず。")));

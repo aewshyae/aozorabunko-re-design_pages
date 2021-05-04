@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1173", {data:[{author:{id:1173,work:[],name:"貴司 悦子",name_kana:"きし えつこ",name_en:"Kishi, Etsuko",born_on:"1903",died_on:"1941"},desc:"",showDesc:false,bornOn:"1903年1月1日",diedOn:"1941年1月1日"}],fetch:{},mutations:[]});

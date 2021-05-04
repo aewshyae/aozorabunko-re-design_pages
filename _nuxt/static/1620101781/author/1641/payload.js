@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/1641", {data:[{author:{id:1641,work:[{work_id:54098,title:"休日に",subtitle:"――工場に働く女工さん達に捧ぐ――",kana_type:"新字新仮名",titleToDisplay:"休日に ――工場に働く女工さん達に捧ぐ――"}],name:"藪田 忠夫",canonicalized_initial:"や",name_kana:"やぶた ただお",name_en:"Yabuta, Tadao",born_on:"1912",died_on:"1943-01"},desc:"",showDesc:false,bornOn:"1912年1月1日",diedOn:"1943年1月1日"}],fetch:{},mutations:[]});

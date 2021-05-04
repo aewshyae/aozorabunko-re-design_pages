@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/598", (function(a){return {data:[{author:{id:598,work:[],name:"島津 保次郎",name_kana:"しまづ やすじろう",name_en:"Shimazu, Yasujiro",born_on:"1897-06-03",died_on:"1945-09-18",wip:[{title:"自動車と肉体",subtitle:a,kana_type:"新字旧仮名",work_id:60794,titleToDisplay:"自動車と肉体 "}]},desc:a,showDesc:false,bornOn:"1897年6月3日",diedOn:"1945年9月18日"}],fetch:{},mutations:[]}}("")));

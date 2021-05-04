@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/1007", {data:[{author:{id:1007,work:[],name:"中内 蝶二",name_kana:"なかうち ちょうじ",name_en:"Nakauchi, Choji",born_on:"1875-05-05",died_on:"1937-02-19"},desc:"",showDesc:false,bornOn:"1875年5月5日",diedOn:"1937年2月19日"}],fetch:{},mutations:[]});

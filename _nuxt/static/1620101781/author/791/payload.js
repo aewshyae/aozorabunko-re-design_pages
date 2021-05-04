@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/author/791", {data:[{author:{id:791,work:[],name:"三上 参次",canonicalized_initial:"み",name_kana:"みかみ さんじ",name_en:"Mikami, Sanji",born_on:"1865-09-10",died_on:"1939-06-07"},desc:"",showDesc:false,bornOn:"1865年9月10日",diedOn:"1939年6月7日"}],fetch:{},mutations:[]});

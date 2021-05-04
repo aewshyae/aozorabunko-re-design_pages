@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/466", {data:[{author:{id:466,work:[],name:"岡 鬼太郎",name_kana:"おか おにたろう",name_en:"Oka, Onitaro",born_on:"1872-08-01",died_on:"1943-10-29"},desc:"",showDesc:false,bornOn:"1872年8月1日",diedOn:"1943年10月29日"}],fetch:{},mutations:[]});

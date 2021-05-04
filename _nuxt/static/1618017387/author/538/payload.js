@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/author/538", {data:[{author:{id:538,work:[],name:"久保田 公平",name_kana:"くぼた こうへい",name_en:"Kubota, Kohei",born_on:"1912",died_on:"1945"},desc:"",showDesc:false,bornOn:"1912年1月1日",diedOn:"1945年1月1日"}],fetch:{},mutations:[]});
